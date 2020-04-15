@@ -1,0 +1,1260 @@
+,name,age,date,location,month,week,day
+0,Jeanne Vriends,85.0,2017-03-01, WOMMELGEM ,March,09,060
+1,Irène Verraes,92.0,2017-03-01, MENEN ,March,09,060
+2,Guido Vanhamel,62.0,2017-03-01, HASSELT ,March,09,060
+3,Hugo Vanchaze,60.0,2017-03-01, OVERPELT ,March,09,060
+4,Maria VAN LEUVEN,86.0,2017-03-01, Les Waleffes ,March,09,060
+5,Helena Van Hout,77.0,2017-03-01, LOMMEL ,March,09,060
+6,Paul Louis Marie Ghislain Van Doren,88.0,2017-03-01, Woluwe-Saint-Pierre (Bruxelles) ,March,09,060
+7,Norbert Van der Heyde,83.0,2017-03-01, Veurne ,March,09,060
+8,Martha Van Aert,81.0,2017-03-01, OOSTMALLE ,March,09,060
+9,Alice Stifkens,69.0,2017-03-01, GENK ,March,09,060
+10,Rene Simons,94.0,2017-03-01, ELEN ,March,09,060
+11,Piet Seevens,70.0,2017-03-01, HAMONT ,March,09,060
+12,Pierre SAINTE,52.0,2017-03-01, Jollain-Merlin ,March,09,060
+13,Staf Reynders,86.0,2017-03-01, BEKKEVOORT ,March,09,060
+14,Georges PODEVYN,82.0,2017-03-01, Brugge ,March,09,060
+15,Lieven Ottevaere,85.0,2017-03-01, OOIGEM ,March,09,060
+16,Henri MUSETTE,88.0,2017-03-01, Lessines ,March,09,060
+17,Hugo Muffels,69.0,2017-03-01, GENK ,March,09,060
+18,Mia Mooren,98.0,2017-03-01, NEEROETEREN ,March,09,060
+19,François MONDEZ,82.0,2017-03-01, Kain ,March,09,060
+20,Nelly MAQUET,89.0,2017-03-01,  ,March,09,060
+21,Josepha Janbroers,91.0,2017-03-01, WOMMELGEM ,March,09,060
+22,Thierry HENNEBERT,58.0,2017-03-01, Péruwelz ,March,09,060
+23,Georgette Hautekiet,87.0,2017-03-01, Beernem ,March,09,060
+24,Gusta Gijbels,88.0,2017-03-01, HEUSDEN-ZOLDER ,March,09,060
+25,Ignace Germeau,77.0,2017-03-01, SINT-TRUIDEN ,March,09,060
+26,Hector GENIN,80.0,2017-03-01, Wépion ,March,09,060
+27,Mia GEERKENS,90.0,2017-03-01, MEEUWEN ,March,09,060
+28,Eugénie DETHIOUX,95.0,2017-03-01, Julémont ,March,09,060
+29,Celine Deferme,84.0,2017-03-01, HEUSDEN-ZOLDER ,March,09,060
+30,José DEDOBBELEER,87.0,2017-03-01, Diegem ,March,09,060
+31,Rudy Deblieck,67.0,2017-03-01, SINT-TRUIDEN ,March,09,060
+32,Felicien Darragas,84.0,2017-03-01, OUDENAARDE ,March,09,060
+33,Marguerite Cuveele,97.0,2017-03-01, ROESELARE ,March,09,060
+34,Maria CRYNS,85.0,2017-03-01, GENK ,March,09,060
+35,Marie-Louise CRALS,75.0,2017-03-01, Herbeumont ,March,09,060
+36,Marie-Christine COULONVAL,62.0,2017-03-01, Rhisnes ,March,09,060
+37,Marie-Jeanne CORNU,87.0,2017-03-01, Gaurain-Ramecroix ,March,09,060
+38,Flavie Colpaert,86.0,2017-03-01, EVERGEM ,March,09,060
+39,Hugo Butaye,88.0,2017-03-01, NOORDSCHOTE ,March,09,060
+40,Georges BRAUSCH,91.0,2017-03-01, Mouscron ,March,09,060
+41,Michel Boutsen,89.0,2017-03-01, MEEUWEN ,March,09,060
+42,Elisabeth BEGHIN,97.0,2017-03-01, Péruwelz ,March,09,060
+43,Tinneke (Albertina) Baptist,86.0,2017-03-01, HASSELT ,March,09,060
+44,Andrée PROTIN ,93.0,2017-03-01, Sommethonne ,March,09,060
+45,Gerard Wynen,83.0,2017-03-02, UIKHOVEN ,March,09,061
+46,Pierre WUSTEFELD,90.0,2017-03-02, - ,March,09,061
+47,Louis VILLERS,93.0,2017-03-02, - ,March,09,061
+48,Hendrik Verbelen,78.0,2017-03-02, WESTMALLE ,March,09,061
+49,Geert Vennens,47.0,2017-03-02, MELSELE ,March,09,061
+50,Gust Vantomme,91.0,2017-03-02, TORHOUT ,March,09,061
+51,Pierre VANDENNIEUWEMBROUCK,87.0,2017-03-02, Kain ,March,09,061
+52,Vicky VANASSCHE,76.0,2017-03-02, NEERPELT ,March,09,061
+53,Georgette Van der Avort,89.0,2017-03-02, ANTWERPEN ,March,09,061
+54,Sandrina TONET,47.0,2017-03-02, Namur ,March,09,061
+55,René THOMAS,86.0,2017-03-02, Mont ,March,09,061
+56,Agnes Spruytte,78.0,2017-03-02,  ,March,09,061
+57,Josse SNELLINX,61.0,2017-03-02, DE PANNE ,March,09,061
+58,Robert Pollaris,84.0,2017-03-02,  ,March,09,061
+59,Giel Nijsen,68.0,2017-03-02, OPITTER ,March,09,061
+60,Daniel MULHEN,69.0,2017-03-02, - ,March,09,061
+61,Marie-Paule MOULIN,59.0,2017-03-02, Chièvres ,March,09,061
+62,Pierre-Philippe MOULIGNEAU,64.0,2017-03-02, Marloie ,March,09,061
+63,Edwin Lieben,55.0,2017-03-02, DIEPENBEEK ,March,09,061
+64,Jean-Luc JACQUEMIN,51.0,2017-03-02, Bouillon ,March,09,061
+65,Pierre Goffinghs,84.0,2017-03-02, HASSELT ,March,09,061
+66,Gisèle GILLET,86.0,2017-03-02, Cortil-Noirmont ,March,09,061
+67,Bertha Franssen,85.0,2017-03-02, HASSELT ,March,09,061
+68,Françoise DUTILLEUX,68.0,2017-03-02, Escanaffles ,March,09,061
+69,Monique Driesen,66.0,2017-03-02, OPGLABBEEK ,March,09,061
+70,Martha Dingenen,84.0,2017-03-02, OVERPELT ,March,09,061
+71,Remy DEHARD,74.0,2017-03-02,  ,March,09,061
+72,Mariette DEBARSY,93.0,2017-03-02, Flostoy ,March,09,061
+73,Philippe Coppejans,51.0,2017-03-02, ZEPPEREN ,March,09,061
+74,Georges CAREME,87.0,2017-03-02, Lonzée ,March,09,061
+75,Marthe BRASSEUR,84.0,2017-03-02, Ciney ,March,09,061
+76,Aline BRACONNIER,83.0,2017-03-02, Sainte-Cécile ,March,09,061
+77,Irène BORGUGNONS,89.0,2017-03-02, MOL ,March,09,061
+78,Christian BAUDUIN,68.0,2017-03-02, Laplaigne ,March,09,061
+79,Philippe WATTIEZ,52.0,2017-03-03, Beclers ,March,09,062
+80,Jerôme Vanloon,95.0,2017-03-03, HOBOKEN ,March,09,062
+81,Yvonne Vanderbiesen,80.0,2017-03-03, PAAL ,March,09,062
+82,Yvonne Van Pelt,90.0,2017-03-03, ANTWERPEN ,March,09,062
+83,Lucile Van Meervelde,86.0,2017-03-03, HASSELT ,March,09,062
+84,Gabrielle VAN de STEENE,91.0,2017-03-03, MERELBEKE ,March,09,062
+85,Roger VAN BELLEGHEM,92.0,2017-03-03, - ,March,09,062
+86,Willy Thomis,64.0,2017-03-03, HASSELT ,March,09,062
+87,Willem Smessaert,79.0,2017-03-03, ZWIJNAARDE ,March,09,062
+88,Ria Put,60.0,2017-03-03, HECHTEL ,March,09,062
+89,Fina Poelmans,98.0,2017-03-03, BERINGEN ,March,09,062
+90,Marie-Louise PIRARD,85.0,2017-03-03, Champion ,March,09,062
+91,Martha Oyen,92.0,2017-03-03, HERENTALS ,March,09,062
+92,Marie-Colette Monart,86.0,2017-03-03, Leuze-en-Hainaut ,March,09,062
+93,Claude MARICHAL,70.0,2017-03-03, Saint-Hubert ,March,09,062
+94,Jacques MARGHEM,80.0,2017-03-03, Bruyelle ,March,09,062
+95,Franz LENGELE,84.0,2017-03-03, Walhain ,March,09,062
+96,Camille LANDRAIN,67.0,2017-03-03, Petit-Hallet ,March,09,062
+97,Frans Janssens,90.0,2017-03-03, HOEVENEN ,March,09,062
+98,Catharina 'Trinette' IDSERDA,86.0,2017-03-03, ELEN ,March,09,062
+99,Denise HOFERLIN,87.0,2017-03-03, Grandhan ,March,09,062
+100,André HAUMONT,89.0,2017-03-03, Jandrain-Jandrenouille ,March,09,062
+101,Désiré GUILLAUME,84.0,2017-03-03, Ciney ,March,09,062
+102,Marie-Thérèse GLADINÉ,95.0,2017-03-03, Velaines ,March,09,062
+103,Gustave FOURMANOIR,92.0,2017-03-03, Néchin ,March,09,062
+104,Raymonde DUSOULIER,67.0,2017-03-03, Ramillies-Offus ,March,09,062
+105,Philippe DOCQUIR,55.0,2017-03-03, Ciney ,March,09,062
+106,Marc DIJON,52.0,2017-03-03, Moha ,March,09,062
+107,Piet De Valkeneer,81.0,2017-03-03, Opvelp ,March,09,062
+108,Julia Daniëls,91.0,2017-03-03, RUMMEN ,March,09,062
+109,Ezechiele (Michel) Cotza,84.0,2017-03-03, GENK ,March,09,062
+110,Maria Corvers,63.0,2017-03-03, EREZEE ,March,09,062
+111,Gabrielle COLLARD,94.0,2017-03-03,  ,March,09,062
+112,Willy BARETTE,90.0,2017-03-03, Dongelberg ,March,09,062
+113,Yvonne BAILY,104.0,2017-03-03, Saint-Servais ,March,09,062
+114,Florent Wolput,81.0,2017-03-04, AARSCHOT ,March,09,063
+115,Maria 'Mia' VLIEGEN,81.0,2017-03-04, NEEROETEREN ,March,09,063
+116,Josée Verbeek,77.0,2017-03-04, MAASEIK ,March,09,063
+117,Alida VEEKENS,93.0,2017-03-04, STOKKEM ,March,09,063
+118,Myriam Van Langenaeken,74.0,2017-03-04, HASSELT ,March,09,063
+119,Marcel van Houte,89.0,2017-03-04, ANTWERPEN ,March,09,063
+120,Marie-Louise SNYERS,95.0,2017-03-04, ZOLDER ,March,09,063
+121,Jenny Snellinx,79.0,2017-03-04, DIEPENBEEK ,March,09,063
+122,Marita Smeets,52.0,2017-03-04, PEER ,March,09,063
+123,Maria SLEGERS,89.0,2017-03-04, HOESELT ,March,09,063
+124,Elisa SEPTON,80.0,2017-03-04, Durbuy ,March,09,063
+125,Mathieu Scheelen,86.0,2017-03-04, OVERPELT ,March,09,063
+126,Alain Sacré,53.0,2017-03-04, Wanze ,March,09,063
+127,Yvonne REGNIER,82.0,2017-03-04, - ,March,09,063
+128,Martha Reekmans,90.0,2017-03-04, SINT-TRUIDEN ,March,09,063
+129,Juliana PURNODE,78.0,2017-03-04,  ,March,09,063
+130,Eddy Punie,60.0,2017-03-04, SINT-TRUIDEN ,March,09,063
+131,Georges Primo,95.0,2017-03-04, GENT ,March,09,063
+132,Willy Pontzeele,69.0,2017-03-04, GENT ,March,09,063
+133,Jean-Marie Pestiaux,88.0,2017-03-04, Bierges ,March,09,063
+134,Mia PAULUS,88.0,2017-03-04, BEVERST ,March,09,063
+135,Thieu Paesen,91.0,2017-03-04, LOMMEL ,March,09,063
+136,Marie-Louise (Loulou) MATTON,85.0,2017-03-04, MERELBEKE ,March,09,063
+137,Josette Lycops,87.0,2017-03-04, HASSELT ,March,09,063
+138,Marie-Louise LEGRAND,83.0,2017-03-04, Lessines ,March,09,063
+139,Maria Jardin,87.0,2017-03-04, STEVOORT ,March,09,063
+140,Jaak Hutsebaut,79.0,2017-03-04, HERDERSEM ,March,09,063
+141,Gilberte HAYOT,87.0,2017-03-04, Lustin ,March,09,063
+142,Steven Hamblok,31.0,2017-03-04, LOMMEL ,March,09,063
+143,Denise GROGNA,92.0,2017-03-04, Marche-en-Famenne ,March,09,063
+144,Paula Geuns,80.0,2017-03-04, ZONHOVEN ,March,09,063
+145,Jacques GARDIEN,117.0,2017-03-04, - ,March,09,063
+146,André FRANCOIS,70.0,2017-03-04, Frasnes-lez-Buissenal ,March,09,063
+147,Jean-Claude DUCHÊNE,73.0,2017-03-04, Les Bulles ,March,09,063
+148,Marie-Claire DELAUNOY,89.0,2017-03-04, Kain ,March,09,063
+149,Joseph DECHAMPS,89.0,2017-03-04, Limbourg ,March,09,063
+150,José DECELLE,73.0,2017-03-04, - ,March,09,063
+151,Eric De Smet,70.0,2017-03-04, Loppem ,March,09,063
+152,Leentje CLOESEN,72.0,2017-03-04, BEVERST ,March,09,063
+153,Albert CHARIOT,94.0,2017-03-04, Durbuy ,March,09,063
+154,Arthur CHABOTEAUX,82.0,2017-03-04, Leignon ,March,09,063
+155,Alfons Carremans,64.0,2017-03-04, HEPPEN ,March,09,063
+156,Mathilde BODVIN,72.0,2017-03-04, TONGEREN ,March,09,063
+157,Henri Bergmans,80.0,2017-03-04, BREE ,March,09,063
+158,Vincent BARCY,48.0,2017-03-04, Haltinne ,March,09,063
+159,Léon ANTOINE,80.0,2017-03-04, Wibrin ,March,09,063
+160,Wilhelmine AHN,88.0,2017-03-04, Jemelle ,March,09,063
+161,Raymond Aerts,90.0,2017-03-04, MERKSEM ,March,09,063
+162,Marie-Michel ,96.0,2017-03-04, Lessines ,March,09,063
+163,Fernand WILKIN,81.0,2017-03-05, Bastogne ,March,09,064
+164,Roland Vlekken,94.0,2017-03-05, HASSELT ,March,09,064
+165,Robert VANDEVENNE,96.0,2017-03-05, BILZEN ,March,09,064
+166,Wim van der Elst,71.0,2017-03-05, BRUSSEL ,March,09,064
+167,Bruno TOUSSAINT,55.0,2017-03-05, Bouge ,March,09,064
+168,Geneviève TEFNIN,89.0,2017-03-05, Jupille-sur-Meuse ,March,09,064
+169,Nicolas SPARMONT,87.0,2017-03-05, Loyers ,March,09,064
+170,Nestor SOHET,85.0,2017-03-05, Bertrix ,March,09,064
+171,Dorothée SCHMIDT,96.0,2017-03-05, Wépion ,March,09,064
+172,François SAS,70.0,2017-03-05, LUMMEN ,March,09,064
+173,Octaaf Sanders,91.0,2017-03-05, GENT ,March,09,064
+174,Suzanne PIRE,92.0,2017-03-05, Ensival ,March,09,064
+175,Geneviève PINCKERS,50.0,2017-03-05, Fouron-Saint-Martin ,March,09,064
+176,Godelieve Mulier,89.0,2017-03-05, ROTSELAAR ,March,09,064
+177,Magda Mondelaers,58.0,2017-03-05, EKSEL ,March,09,064
+178,Michel MAUROIT,58.0,2017-03-05, Lessines ,March,09,064
+179,Renaat Mariën,81.0,2017-03-05, BONHEIDEN ,March,09,064
+180,Frans Lust,77.0,2017-03-05, OUDENAARDE ,March,09,064
+181,Léon LIBAR,88.0,2017-03-05, Vaux-Chavanne ,March,09,064
+182,Mariette LIARD,95.0,2017-03-05, Bruyelle ,March,09,064
+183,Paule LARDINOY,87.0,2017-03-05, Tournai ,March,09,064
+184,Marie Jeanne Lardinois,97.0,2017-03-05, TONGEREN ,March,09,064
+185,Dimitri HURTEUX,36.0,2017-03-05, Tournai ,March,09,064
+186,Joseph HOLTZHEIMER,77.0,2017-03-05, Paliseul ,March,09,064
+187,Lisette HERTEN,72.0,2017-03-05, HOUTHALEN ,March,09,064
+188,Marie-Josée GANHY,103.0,2017-03-05, Chastre ,March,09,064
+189,Marie-José GANHY,103.0,2017-03-05, Chastre ,March,09,064
+190,Pol FRÈRE,77.0,2017-03-05, Belgrade ,March,09,064
+191,Paulette FERRY,96.0,2017-03-05, Noville-Sur-Mehaigne ,March,09,064
+192,Marie-Josée Engelborghs,81.0,2017-03-05, TONGEREN ,March,09,064
+193,Maryse DUPIRE,39.0,2017-03-05, Hollain ,March,09,064
+194,Yvonne DEMASY,87.0,2017-03-05,  ,March,09,064
+195,Francis DE WACHTER,78.0,2017-03-05, Poupehan ,March,09,064
+196,Franz BÉTERMIER,82.0,2017-03-05, Belgrade ,March,09,064
+197,Joséphine BARBAY,77.0,2017-03-05, Montzen ,March,09,064
+198,Jef Wanten,83.0,2017-03-06, HASSELT ,March,10,065
+199,Ida VANDEGOOR,89.0,2017-03-06, MUNSTERBILZEN ,March,10,065
+200,Jos Valkiers,86.0,2017-03-06, ANTWERPEN ,March,10,065
+201,Josette TALBOT,77.0,2017-03-06,  ,March,10,065
+202,Joseph Stassen,65.0,2017-03-06, TONGEREN ,March,10,065
+203,Fernande Smets,87.0,2017-03-06, VOORT ,March,10,065
+204,Marie-Louise SIMONIS,95.0,2017-03-06,  ,March,10,065
+205,Michel RIBAUVILLE,63.0,2017-03-06, - ,March,10,065
+206,Andrée RAMBOUX,83.0,2017-03-06, Jambes ,March,10,065
+207,Yvette PEREAUX,84.0,2017-03-06,  ,March,10,065
+208,Jose Peeters,88.0,2017-03-06, ZOLDER ,March,10,065
+209,Aimé MONNART,83.0,2017-03-06, Renaix ,March,10,065
+210,Marie-Thérèse MONJOIE,89.0,2017-03-06, Wépion ,March,10,065
+211,Paulette Linssen,85.0,2017-03-06, MOLENBEERSEL ,March,10,065
+212,Robert Lenorst,89.0,2017-03-06, ANTWERPEN ,March,10,065
+213,Marie Gabrielle LEFEVRE,64.0,2017-03-06, Beuzet ,March,10,065
+214,Suzanne LAURENT,101.0,2017-03-06, Templeuve ,March,10,065
+215,Louisa Knapen,86.0,2017-03-06, ALKEN ,March,10,065
+216,Roger Jaeken,85.0,2017-03-06, OPHOVEN ,March,10,065
+217,Françoise JADOUL,77.0,2017-03-06, Jambes ,March,10,065
+218,Lisette Jacobs,81.0,2017-03-06, DUFFEL ,March,10,065
+219,Victoor Gilbert,90.0,2017-03-06, RUMBEKE ,March,10,065
+220,Hughes FAVRESSE,52.0,2017-03-06, Grez-Doiceau ,March,10,065
+221,Adrienne FARNIR,92.0,2017-03-06, Heusy ,March,10,065
+222,Christiaan ERKENS,84.0,2017-03-06, NEEROETEREN ,March,10,065
+223,René Duveillié,90.0,2017-03-06, GENK ,March,10,065
+224,Jules DUBRU,89.0,2017-03-06, Houffalize ,March,10,065
+225,Jacqueline DEROUF,89.0,2017-03-06, Templeuve ,March,10,065
+226,Christiane DELARUELLE,75.0,2017-03-06, Walhain ,March,10,065
+227,Carine DECNEUDT,51.0,2017-03-06, Mouscron ,March,10,065
+228,Noël De Man,117.0,2017-03-06, AALST ,March,10,065
+229,Magdalena De Bisschop,77.0,2017-03-06, KAPELLEN ,March,10,065
+230,Frans CLUDTS,86.0,2017-03-06, GENK ,March,10,065
+231,Christiane CLEDA,80.0,2017-03-06, - ,March,10,065
+232,José CALLE,80.0,2017-03-06, Durnal ,March,10,065
+233,Paula BROTCORNE,86.0,2017-03-06, Chièvres ,March,10,065
+234,Urbain Bourguignon,84.0,2017-03-06, NIEUWERKERKEN ,March,10,065
+235,Raymond BOUCHE,88.0,2017-03-06, - ,March,10,065
+236,Vital Borremans,77.0,2017-03-06, BORGLOON ,March,10,065
+237,Jeanne WINANDY,97.0,2017-03-07, Petit-Rechain ,March,10,066
+238,Maria Vijfeyken,83.0,2017-03-07, ZOLDER ,March,10,066
+239,Willy VERVACK,94.0,2017-03-07, - ,March,10,066
+240,Agnes VANDEBURIE,84.0,2017-03-07, Kuurne ,March,10,066
+241,Liliane Van der Linden,88.0,2017-03-07, ANTWERPEN ,March,10,066
+242,Felix TIERELIERS,87.0,2017-03-07, GENK ,March,10,066
+243,Pascal THOMAS,46.0,2017-03-07, Mont ,March,10,066
+244,Eveline SIMON,87.0,2017-03-07, Namêche ,March,10,066
+245,Maria Schurgers,83.0,2017-03-07, DILSEN-STOKKEM ,March,10,066
+246,Marie-Paule SADZOT,70.0,2017-03-07, - ,March,10,066
+247,Yvonne RAUSIN,93.0,2017-03-07, Flawinne ,March,10,066
+248,Gérard PATTEEUW,64.0,2017-03-07, - ,March,10,066
+249,Julie Opdeweegh,96.0,2017-03-07, BOCHOLT ,March,10,066
+250,Sam Mertens,34.0,2017-03-07, LOMMEL ,March,10,066
+251,Martin MARTENS,82.0,2017-03-07, BILZEN ,March,10,066
+252,Paul Leyman,76.0,2017-03-07, OUDENAARDE ,March,10,066
+253,Victorine LESECQUE,91.0,2017-03-07, HASSELT ,March,10,066
+254,Louis LENAERTS,85.0,2017-03-07, PEER ,March,10,066
+255,Albert Lemmens,95.0,2017-03-07, BERINGEN ,March,10,066
+256,Marie Anne Jorissen,93.0,2017-03-07, TONGEREN ,March,10,066
+257,Hubert Jacobs,77.0,2017-03-07, MAASEIK ,March,10,066
+258,Louis HINANT,89.0,2017-03-07, Sart-Saint-Laurent ,March,10,066
+259,Adèle HAULOT,88.0,2017-03-07, Onhaye ,March,10,066
+260,Jos GEUTJENS,69.0,2017-03-07, NEEROETEREN ,March,10,066
+261,José Follon,81.0,2017-03-07, HELCHTEREN ,March,10,066
+262,Jan Fillet,92.0,2017-03-07, HAACHT ,March,10,066
+263,Molly Dewilde,85.0,2017-03-07, BAZEL ,March,10,066
+264,Katleen Depoorter,48.0,2017-03-07, OUDENAARDE ,March,10,066
+265,Gerard Daniels,89.0,2017-03-07, ZONHOVEN ,March,10,066
+266,Jeanne Daems,92.0,2017-03-07, BEVERLO ,March,10,066
+267,Marcel Corthouts,75.0,2017-03-07, LUMMEN ,March,10,066
+268,Francine Cleemput,72.0,2017-03-07, ERTVELDE ,March,10,066
+269,Laurent CHRISTIAENS,81.0,2017-03-07, Thisnes ,March,10,066
+270,Serge CARPIAUX,68.0,2017-03-07, Temploux ,March,10,066
+271,Bernard BETTENDORFF,73.0,2017-03-07, Houffalize ,March,10,066
+272,Mauro BENELLI,74.0,2017-03-07, HOUTHALEN ,March,10,066
+273,Rose BAUMANS,86.0,2017-03-07, Andrimont ,March,10,066
+274,René Auwerx,88.0,2017-03-07, DIEPENBEEK ,March,10,066
+275,Germaine Aerts,87.0,2017-03-07, ZONHOVEN ,March,10,066
+276,Marie JACQUEMART ,100.0,2017-03-07, Virton ,March,10,066
+277,Guy WYNANT,81.0,2017-03-08, Ath ,March,10,067
+278,Hendrik Vlassaks,88.0,2017-03-08, HAMONT ,March,10,067
+279,Frans Vergauwen,92.0,2017-03-08, MORTSEL ,March,10,067
+280,Antoinette Velle,78.0,2017-03-08, HASSELT ,March,10,067
+281,Viviane VANVUCHELEN,61.0,2017-03-08, HALLE-BOOIENHOVEN ,March,10,067
+282,Beatrijs Vansina,91.0,2017-03-08, SINT-ULRIKS-KAPELLE ,March,10,067
+283,Emiel Van Quaethem,85.0,2017-03-08, BRUGGE ,March,10,067
+284,Robert Van Hoecke,87.0,2017-03-08, KNOKKE-HEIST ,March,10,067
+285,Armand TIELEN,84.0,2017-03-08, GENK ,March,10,067
+286,Jan Steyaert,86.0,2017-03-08, GENK ,March,10,067
+287,Hilda Sterkmans,73.0,2017-03-08, HASSELT ,March,10,067
+288,Jean SPITAELS,82.0,2017-03-08, Ath ,March,10,067
+289,Christ Snijkers,82.0,2017-03-08, KESSENICH ,March,10,067
+290,Jan SNELLINX,82.0,2017-03-08, HOESELT ,March,10,067
+291,Mieke Schreurs,85.0,2017-03-08, OPOETEREN ,March,10,067
+292,Maria Schoubben,87.0,2017-03-08, WELLEN ,March,10,067
+293,Jean Schoefs,88.0,2017-03-08, GENK ,March,10,067
+294,Josée Poukens,77.0,2017-03-08, NEERPELT ,March,10,067
+295,Jan Peusens,90.0,2017-03-08, BEYNE-HEUSAY ,March,10,067
+296,Alexandre (Lex) Opsteyn,93.0,2017-03-08, HASSELT ,March,10,067
+297,Marie-Thérèse NANDRAIN,87.0,2017-03-08, Seilles ,March,10,067
+298,Camille MEUNIER,85.0,2017-03-08, Ciney ,March,10,067
+299,Jenny Marechal,88.0,2017-03-08, Verlaine ,March,10,067
+300,Nicole LIZIN,68.0,2017-03-08, Miécret ,March,10,067
+301,Michel LIGNA,63.0,2017-03-08, Profondeville ,March,10,067
+302,Edgard Hasevoets,89.0,2017-03-08, ALKEN ,March,10,067
+303,Francis GODFROID,67.0,2017-03-08, Saint-Servais ,March,10,067
+304,Fieneke Gijbels,69.0,2017-03-08, LANAKEN ,March,10,067
+305,Willy FRATEUR,58.0,2017-03-08, Bossière ,March,10,067
+306,Claudy DUPIRE,59.0,2017-03-08, - ,March,10,067
+307,Madeleine DUCARMOIS,80.0,2017-03-08, Blicquy ,March,10,067
+308,Gunnar De Wispelaere,37.0,2017-03-08, EEKLO ,March,10,067
+309,Paulette De Coninck,81.0,2017-03-08, EVERGEM ,March,10,067
+310,Michel CROUQUET,78.0,2017-03-08, Wépion ,March,10,067
+311,Jan CORSTJENS,80.0,2017-03-08, GENK ,March,10,067
+312,Gust Coomans,75.0,2017-03-08, KOERSEL ,March,10,067
+313,Julien BULTE,85.0,2017-03-08, Hérinnes ,March,10,067
+314,Annie BOURDON,67.0,2017-03-08, Wiers ,March,10,067
+315,Jaak Bollen,65.0,2017-03-08, SINT-TRUIDEN ,March,10,067
+316,Joannes BIELEN,81.0,2017-03-08, HOUTHALEN ,March,10,067
+317,Joanna Bellen,91.0,2017-03-08, EREMBODEGEM ,March,10,067
+318,Henny Beekman,56.0,2017-03-08, AS ,March,10,067
+319,Tine Becker,90.0,2017-03-08, ANTWERPEN ,March,10,067
+320,Henri Aengeveld,77.0,2017-03-08, KINROOI ,March,10,067
+321,Jean-Jacques Waterloos,86.0,2017-03-09, MELLE ,March,10,068
+322,Sabine VERBEECK,48.0,2017-03-09, Theux ,March,10,068
+323,Paulina Vandikkelen,93.0,2017-03-09, ZONHOVEN ,March,10,068
+324,Adrien VANDEPUTTE,84.0,2017-03-09, - ,March,10,068
+325,Jaak Vandeberg,79.0,2017-03-09, KINROOI ,March,10,068
+326,Adeline Van Hertum,63.0,2017-03-09, ACHEL ,March,10,068
+327,Madeleine Stuyck,90.0,2017-03-09, BILZEN ,March,10,068
+328,Emma ROCH,87.0,2017-03-09, Goesnes ,March,10,068
+329,Denise REYNIERS,88.0,2017-03-09, Vinalmont ,March,10,068
+330,Claire PURNODE,95.0,2017-03-09, Mellet ,March,10,068
+331,Christiane Poelmans,78.0,2017-03-09, GENK ,March,10,068
+332,Alice PICHON,77.0,2017-03-09, Frasnes-lez-Buissenal ,March,10,068
+333,Marion Pelssers,63.0,2017-03-09, MAASMECHELEN ,March,10,068
+334,Celine Peeters,90.0,2017-03-09, HERENT ,March,10,068
+335,Mieke Peeters,70.0,2017-03-09, DILSEN-STOKKEM ,March,10,068
+336,Truike NEYENS,97.0,2017-03-09, NEEROETEREN ,March,10,068
+337,Raoul MOUCHERON,83.0,2017-03-09, Huy ,March,10,068
+338,Kamiel Mortelmans,70.0,2017-03-09, De Bilt (NL) ,March,10,068
+339,Jeanine Martens,79.0,2017-03-09, KERMT ,March,10,068
+340,Augusta Mariën,100.0,2017-03-09, SCHILDE ,March,10,068
+341,Miet LINDEN,82.0,2017-03-09, HOUTHALEN ,March,10,068
+342,André LEDENT,92.0,2017-03-09, Houyet ,March,10,068
+343,Sylvie LAMBRECHTS,88.0,2017-03-09, BEVERST ,March,10,068
+344,Chel Hoeben,82.0,2017-03-09, NEERPELT ,March,10,068
+345,Jean-Louis GROGNARD,70.0,2017-03-09, Vielsalm ,March,10,068
+346,Marcelle GOURGUE,92.0,2017-03-09, Andenne ,March,10,068
+347,Billy Ferrari,22.0,2017-03-09, TONGEREN ,March,10,068
+348,Jos Ernest,63.0,2017-03-09, BORGLOON ,March,10,068
+349,Theo Engelen,72.0,2017-03-09, SINT-TRUIDEN ,March,10,068
+350,René Dillen,88.0,2017-03-09, BOECHOUT ,March,10,068
+351,Bernard DENOOZ,75.0,2017-03-09, Stembert ,March,10,068
+352,Benoît DEFOSSE,84.0,2017-03-09, - ,March,10,068
+353,Etienne De Regge,87.0,2017-03-09, MERELBEKE ,March,10,068
+354,Diane De Hauwere,80.0,2017-03-09, HERDERSEM ,March,10,068
+355,Dino DAL CIN,83.0,2017-03-09, Ciney ,March,10,068
+356,Louisa Coppens,83.0,2017-03-09, TURNHOUT ,March,10,068
+357,René CLAIRQUIN,70.0,2017-03-09, Kain ,March,10,068
+358,Jef Capellen,63.0,2017-03-09, VECHMAAL ,March,10,068
+359,Suzanne BRACK,98.0,2017-03-09, Bertrix ,March,10,068
+360,Mathieu Bollen,88.0,2017-03-09, MAASEIK ,March,10,068
+361,Claire BADOUX,81.0,2017-03-09, Assesse ,March,10,068
+362,Benito 'Salvatore' Accardo,77.0,2017-03-09, MECHELEN-AAN-DE-MAAS ,March,10,068
+363,Jean Wijnen,68.0,2017-03-10, LANAKEN ,March,10,069
+364,Cyrille VUIDAR,96.0,2017-03-10, Champion ,March,10,069
+365,Jeanne Surmont,87.0,2017-03-10, WAREGEM ,March,10,069
+366,Christiane Struyf,85.0,2017-03-10, MORTSEL ,March,10,069
+367,Josette SIMONS,72.0,2017-03-10, Aubel ,March,10,069
+368,Agnès SCHMITZ,86.0,2017-03-10, Champlon ,March,10,069
+369,Mathieu SAEY,81.0,2017-03-10, Henri-Chapelle ,March,10,069
+370,Leontine Reniers,96.0,2017-03-10, OOSTENDE ,March,10,069
+371,Edgard POLLERS,76.0,2017-03-10, HOUTHALEN ,March,10,069
+372,Théo PIERARD,72.0,2017-03-10, Rochefort ,March,10,069
+373,Lucie Penne,84.0,2017-03-10, KOKSIJDE ,March,10,069
+374,Jan Peeten,75.0,2017-03-10, OVERPELT ,March,10,069
+375,Tilly Neyens,89.0,2017-03-10, HERENTALS ,March,10,069
+376,Hugo MOORS,58.0,2017-03-10, MUNSTERBILZEN ,March,10,069
+377,Isidore Mathieu,90.0,2017-03-10, WALSHOUTEM ,March,10,069
+378,Philomène MARTENS,86.0,2017-03-10, GENK ,March,10,069
+379,René MARON,87.0,2017-03-10, - ,March,10,069
+380,Wily Linders,62.0,2017-03-10, TESSENDERLO ,March,10,069
+381,Maurice LIEGEOIS,95.0,2017-03-10, Herve ,March,10,069
+382,Camille LEKEUCHE,87.0,2017-03-10, Guignies ,March,10,069
+383,Jacqueline LEFEBURE,92.0,2017-03-10, Rochefort ,March,10,069
+384,Robert Laverdeur,76.0,2017-03-10, ZUTENDAAL ,March,10,069
+385,Jean JORION,95.0,2017-03-10, Lessines ,March,10,069
+386,Jean JORDAN,95.0,2017-03-10, Lessines ,March,10,069
+387,Pierre GRANDJEAN,81.0,2017-03-10, Namur ,March,10,069
+388,Ward Gekiere,87.0,2017-03-10, BOECHOUT ,March,10,069
+389,Émile DUSSART,86.0,2017-03-10, Vedrin ,March,10,069
+390,Georges Dhondt,86.0,2017-03-10, OUWEGEM ,March,10,069
+391,Jeanne DEVOS,85.0,2017-03-10, Frasnes-lez-Buissenal ,March,10,069
+392,Gaston DELGOFFE,91.0,2017-03-10, Autre-Église ,March,10,069
+393,Marie-José DECAMP,92.0,2017-03-10, Thorembais-Saint-Trond ,March,10,069
+394,Anne de LIEDEKERKE de PAILHE,84.0,2017-03-10, Pailhe ,March,10,069
+395,Marie-Antoinette DASNOIS,84.0,2017-03-10, Bertrix ,March,10,069
+396,Jeannine CLICHEROUX,90.0,2017-03-10, Philippeville ,March,10,069
+397,Marie BRASSART,79.0,2017-03-10,  ,March,10,069
+398,Jaak Boonen,83.0,2017-03-10, WELLEN ,March,10,069
+399,Maria BARTH,88.0,2017-03-10, Amay ,March,10,069
+400,Rose-Marie ZICOT,70.0,2017-03-11, Saint-Denis ,March,10,070
+401,Lieve Vermeulen,91.0,2017-03-11, Tervuren ,March,10,070
+402,Hubert Verbeek,83.0,2017-03-11, KESSENICH ,March,10,070
+403,Julius Vandevoort,84.0,2017-03-11, BERINGEN ,March,10,070
+404,Raymond Vandevenne,77.0,2017-03-11, 'S GRAVENWEZEL ,March,10,070
+405,Robert Van Gestel,71.0,2017-03-11, WESTMALLE ,March,10,070
+406,Hilda Van Aerden,92.0,2017-03-11, DENDERMONDE ,March,10,070
+407,René TOCK,92.0,2017-03-11, - ,March,10,070
+408,Camille TAGNON,84.0,2017-03-11, Han-sur-Lesse ,March,10,070
+409,Paula Strauven,86.0,2017-03-11, ZEPPEREN ,March,10,070
+410,Yetty Stevens,88.0,2017-03-11, ZOLDER ,March,10,070
+411,Bernadette Steegen,73.0,2017-03-11, LANAKEN ,March,10,070
+412,André Stans,78.0,2017-03-11, LOMMEL ,March,10,070
+413,Pieter Staessens,83.0,2017-03-11, KOKSIJDE ,March,10,070
+414,Luc Smets,70.0,2017-03-11, DIEPENBEEK ,March,10,070
+415,Elza Piette,94.0,2017-03-11, GENT ,March,10,070
+416,Gemma Peeraer,84.0,2017-03-11, BEERSE ,March,10,070
+417,Édith PARMENTIER,82.0,2017-03-11, Folx-les-Caves ,March,10,070
+418,Marie-Louise PANNEMANS,85.0,2017-03-11, BILZEN ,March,10,070
+419,Maria Nouwen,85.0,2017-03-11, HECHTEL ,March,10,070
+420,Thierry Moors,45.0,2017-03-11, SINT-TRUIDEN ,March,10,070
+421,Joseph MICHOTTE,77.0,2017-03-11, Auvelais ,March,10,070
+422,Julien LOUETTE,88.0,2017-03-11, Perwez ,March,10,070
+423,Baudouin Lelièvre,58.0,2017-03-11, BERCHEM ,March,10,070
+424,Louis LEFEBVRE,75.0,2017-03-11, Saint-Hubert ,March,10,070
+425,Amand LECLERCQ,82.0,2017-03-11, Ciney ,March,10,070
+426,Edmonde LADRIÈRE,87.0,2017-03-11, Tournai ,March,10,070
+427,Liliane Janssens,85.0,2017-03-11, LEOPOLDSBURG ,March,10,070
+428,Christiane HOVAERE,88.0,2017-03-11, Pesche ,March,10,070
+429,Renée HANCISSE,85.0,2017-03-11, Walhain ,March,10,070
+430,Liza Goetstouwers,87.0,2017-03-11, KALMTHOUT ,March,10,070
+431,Michel EVRARD,70.0,2017-03-11, Ramillies-Offus ,March,10,070
+432,Maurice DUVINAGE,80.0,2017-03-11,  ,March,10,070
+433,Céline DUMONT,87.0,2017-03-11, Ciney ,March,10,070
+434,bernard DUBOIS,66.0,2017-03-11, Rumillies ,March,10,070
+435,Josiane DIVES,67.0,2017-03-11, Malonne ,March,10,070
+436,Fon Derkx,90.0,2017-03-11, ALKEN ,March,10,070
+437,René De Pauw,89.0,2017-03-11, EVERGEM ,March,10,070
+438,Theodoor Daamen,92.0,2017-03-11, MAASMECHELEN ,March,10,070
+439,Pierre BOURGHELLE,84.0,2017-03-11, Mons ,March,10,070
+440,Annie Bleus-van der Zweep,95.0,2017-03-11, MAASTRICHT ,March,10,070
+441,Henri 'Jef' Bijloos,93.0,2017-03-11, SCHAARBEEK ,March,10,070
+442,Robert Bex,71.0,2017-03-11, KOERSEL ,March,10,070
+443,Arthur Belet,9.0,2017-03-11, BORGLOON ,March,10,070
+444,Alphonsine Vandormael,80.0,2017-03-12, WELLEN ,March,10,071
+445,René VAN ERMEN,79.0,2017-03-12, Spy ,March,10,071
+446,Rita van Enckevort,78.0,2017-03-12, DUFFEL ,March,10,071
+447,Marie-Berthe VALENTIN,64.0,2017-03-12, Bastogne ,March,10,071
+448,Madeleine TIMSONET,95.0,2017-03-12, Loyers ,March,10,071
+449,Nicole Steenhuysen,66.0,2017-03-12, KAPELLEN ,March,10,071
+450,Marc Steenackers,43.0,2017-03-12, ANTWERPEN ,March,10,071
+451,Germaine Steelandt,88.0,2017-03-12, DEERLIJK ,March,10,071
+452,Paulette STASSEN,75.0,2017-03-12, BILZEN ,March,10,071
+453,Henri SCHREURS,81.0,2017-03-12, Thimister ,March,10,071
+454,Godelieve Schoofs,79.0,2017-03-12, SINT-TRUIDEN ,March,10,071
+455,Louise SCHIETSE,77.0,2017-03-12, Tournai ,March,10,071
+456,Georges SAINVITEUX,69.0,2017-03-12, Beuzet ,March,10,071
+457,André REITER,61.0,2017-03-12, Coxyde ,March,10,071
+458,Jacqueline Peeten,95.0,2017-03-12, OVERPELT ,March,10,071
+459,Wauters Marie,84.0,2017-03-12, Meux ,March,10,071
+460,Pierre MALISART,89.0,2017-03-12, Tournai ,March,10,071
+461,Maria Luyckx,80.0,2017-03-12, LEOPOLDSBURG ,March,10,071
+462,Raymond KRICKEL,67.0,2017-03-12, Verviers ,March,10,071
+463,Fernand JACQUEMIN,79.0,2017-03-12, Ans ,March,10,071
+464,Bruno Indigne,79.0,2017-03-12, LONDERZEEL ,March,10,071
+465,Clotilde Iliaens,90.0,2017-03-12, GELINDEN ,March,10,071
+466,Andrée HOC,81.0,2017-03-12, Spy ,March,10,071
+467,Anny HAINAUX,,2017-03-12, Sorinnes ,March,10,071
+468,Marie-Louise GOURGUE,80.0,2017-03-12, Vezin ,March,10,071
+469,René Godfroid,101.0,2017-03-12, Hannut ,March,10,071
+470,Alain GÉRÉON,94.0,2017-03-12, Andrimont ,March,10,071
+471,Anna Dworakiwska,66.0,2017-03-12, MECHELEN-AAN-DE-MAAS ,March,10,071
+472,Monique DUPUIS,91.0,2017-03-12, Froyennes ,March,10,071
+473,Irma DUPUIS,78.0,2017-03-12, Hanret ,March,10,071
+474,Adrienne DUBRON,84.0,2017-03-12, GENT ,March,10,071
+475,Annie Dops,84.0,2017-03-12, MAASEIK ,March,10,071
+476,Marie-Thérèse DILBECK,86.0,2017-03-12, Forges ,March,10,071
+477,Thao DEROUBAIX,75.0,2017-03-12, Laplaigne ,March,10,071
+478,Monique DENIS,67.0,2017-03-12, Belgrade ,March,10,071
+479,Stéphanie DEMAZY,91.0,2017-03-12, Waillet ,March,10,071
+480,Elza De Meyer,77.0,2017-03-12, KAPELLEN ,March,10,071
+481,Marcel COQUANT,89.0,2017-03-12, Dottignies ,March,10,071
+482,Marguerite CHALON,92.0,2017-03-12, Agimont ,March,10,071
+483,Mariette Ceulen,76.0,2017-03-12, AS ,March,10,071
+484,Jean-Pierre CAUCHY,48.0,2017-03-12, - ,March,10,071
+485,Mark Broeckaert,63.0,2017-03-12, DEURNE ,March,10,071
+486,Chantal BERTHOLOMÉ,70.0,2017-03-12, Andrimont ,March,10,071
+487,Jean Bemong,92.0,2017-03-12, REKEM ,March,10,071
+488,André BEINE,78.0,2017-03-12, Ciplet ,March,10,071
+489,"Denise, dite Madeleine BALFROID",79.0,2017-03-12, Bohan ,March,10,071
+490,Martin VERHEYEN,89.0,2017-03-13, MAASEIK ,March,11,072
+491,Danny Verbovsek,69.0,2017-03-13, GENK ,March,11,072
+492,Bernard Vanspauwen,84.0,2017-03-13, MUNSTERBILZEN ,March,11,072
+493,Blanche Vandebergh,96.0,2017-03-13, BORGERHOUT ,March,11,072
+494,Frans Van Dijck,62.0,2017-03-13, LOENHOUT ,March,11,072
+495,Jean TROISIER,79.0,2017-03-13, - ,March,11,072
+496,Jacques Pouls,86.0,2017-03-13, KINROOI ,March,11,072
+497,Guido Poelmans,73.0,2017-03-13, BIERBEEK ,March,11,072
+498,Maria Peters,89.0,2017-03-13, ROCOURT ,March,11,072
+499,Tharcille PAQUAY,92.0,2017-03-13, Paliseul ,March,11,072
+500,Rik Ooghe,60.0,2017-03-13, ZWEVEZELE ,March,11,072
+501,Marie Anne NOISIER,62.0,2017-03-13, Antoing ,March,11,072
+502,Antonia Teresa Murredda,66.0,2017-03-13, GENK ,March,11,072
+503,Roza Miksa,84.0,2017-03-13, MAASMECHELEN ,March,11,072
+504,Romain Meuws,81.0,2017-03-13, BEVERLO ,March,11,072
+505,Annie Meuwis,85.0,2017-03-13, KURINGEN ,March,11,072
+506,Eugeen MEUWIS,95.0,2017-03-13, GENK ,March,11,072
+507,Genoveffa Mastroianni,79.0,2017-03-13, TONGEREN ,March,11,072
+508,Gabriëlle Maes,92.0,2017-03-13, LEOPOLDSBURG ,March,11,072
+509,Guy HONETTE,64.0,2017-03-13, Verviers ,March,11,072
+510,Didier HENDRICKS,45.0,2017-03-13, Stembert ,March,11,072
+511,Victorine HACOURT,90.0,2017-03-13, - ,March,11,072
+512,Elisabeth Grouwels,62.0,2017-03-13, ZUTENDAAL ,March,11,072
+513,Jan Gerits,89.0,2017-03-13, LOMMEL ,March,11,072
+514,Luc DRIESKENS,73.0,2017-03-13, GENK ,March,11,072
+515,Patricia Deneubourg,53.0,2017-03-13, Ellignies-Sainte-Anne ,March,11,072
+516,Albert DELZENNE,89.0,2017-03-13, Tournai ,March,11,072
+517,Wies Deferme,60.0,2017-03-13, KOERSEL ,March,11,072
+518,Armand de Waal,74.0,2017-03-13, KAPELLEN ,March,11,072
+519,Dirk De Schrijver,55.0,2017-03-13, BAZEL ,March,11,072
+520,Anne-Marie de MAERE d'AERTRIJCKE,96.0,2017-03-13, Rhode-Saint-Genèse ,March,11,072
+521,Magda De Groeve,76.0,2017-03-13, KRUIBEKE ,March,11,072
+522,Victor De Cnodder,97.0,2017-03-13, HERENTALS ,March,11,072
+523,Paul CORNIL,79.0,2017-03-13, Bury ,March,11,072
+524,Jean CARLIER,84.0,2017-03-13, Ath ,March,11,072
+525,Anna CARBONNELLE,91.0,2017-03-13, Frasnes-lez-Buissenal ,March,11,072
+526,Henri Bourgeois,69.0,2017-03-13, SCHOONAARDE ,March,11,072
+527,Daniel BONCHOUX,89.0,2017-03-13, Tournai ,March,11,072
+528,Gust Berghmans,88.0,2017-03-13, OVERPELT ,March,11,072
+529,Eddy Baeten,56.0,2017-03-13, DIEPENBEEK ,March,11,072
+530,Andrée BACHEZ,92.0,2017-03-13, Chièvres ,March,11,072
+531,Julia Wellens,94.0,2017-03-14, LOMMEL ,March,11,073
+532,Christine VANHAVERBEKE,55.0,2017-03-14, Frasnes-lez-Buissenal ,March,11,073
+533,Frans Vander Stichele,87.0,2017-03-14, AALST ,March,11,073
+534,Georges Vandamme,81.0,2017-03-14, OPGRIMBIE ,March,11,073
+535,Lisbeth Van Deun,62.0,2017-03-14, ZOTTEGEM ,March,11,073
+536,Clara Maria Van den Bosch,94.0,2017-03-14, LEUVEN ,March,11,073
+537,Marie TRUSSART,79.0,2017-03-14, Leuze ,March,11,073
+538,Isidoor Thomas,87.0,2017-03-14, HERK-DE-STAD ,March,11,073
+539,Freddy (Frits) Stevens,68.0,2017-03-14, OVERPELT ,March,11,073
+540,Denise ROSIUS,74.0,2017-03-14, GENK ,March,11,073
+541,Liliane Pynenborg,63.0,2017-03-14, ZOERSEL ,March,11,073
+542,Sylvie PARMENTIER,81.0,2017-03-14, - ,March,11,073
+543,Emile PARMENTIER,67.0,2017-03-14, - ,March,11,073
+544,Jean-Michel LODOMEZ,77.0,2017-03-14, Stembert ,March,11,073
+545,Marie-Henriette LETOR,90.0,2017-03-14, Ciney ,March,11,073
+546,Anne-Marie LAVOIX,89.0,2017-03-14, Bouge ,March,11,073
+547,Mia HOUBEN,76.0,2017-03-14, GENK ,March,11,073
+548,Hubert HILGERS,96.0,2017-03-14, Verviers ,March,11,073
+549,Jozef Heynderyck,64.0,2017-03-14, ANDERLECHT ,March,11,073
+550,Clémentine HERBIET,88.0,2017-03-14, Houyet ,March,11,073
+551,Jacques Hendrickx,67.0,2017-03-14, SINT-TRUIDEN ,March,11,073
+552,André GOUTERS,80.0,2017-03-14, Waremme ,March,11,073
+553,Marie-Paule GODFROID,56.0,2017-03-14, Vaux-sur-Sûre ,March,11,073
+554,Marie-Antoinette GILSON,60.0,2017-03-14,  ,March,11,073
+555,Marcelle GAILLARD,96.0,2017-03-14, Marchovelette ,March,11,073
+556,Jeanne FONTAINE,96.0,2017-03-14, Wodecq ,March,11,073
+557,Jules DRUART,80.0,2017-03-14, Grandmetz ,March,11,073
+558,Pierre DEREPPE,57.0,2017-03-14, Florennes ,March,11,073
+559,Marc De Muyter,69.0,2017-03-14, AALST ,March,11,073
+560,Yvette Crul,89.0,2017-03-14, EVERGEM ,March,11,073
+561,Thérèse CRUCIFIX,65.0,2017-03-14, Finnevaux ,March,11,073
+562,Robert Croonenborghs,72.0,2017-03-14, GENK ,March,11,073
+563,Laure Cromheecke,70.0,2017-03-14, GENT ,March,11,073
+564,Jeanne Clauw,73.0,2017-03-14, KOERSEL ,March,11,073
+565,Pierre CLAUDE,84.0,2017-03-14, Baronville ,March,11,073
+566,Jean-Marie CHEUVART,81.0,2017-03-14, Erpent ,March,11,073
+567,Jean-Marie CHARLIER,79.0,2017-03-14, Kain ,March,11,073
+568,Rudi Bollansée,59.0,2017-03-14, BEERSE ,March,11,073
+569,Jean-Luc BEAUCAMPS,53.0,2017-03-14, Ath ,March,11,073
+570,Jean BALLANT,97.0,2017-03-14, Bourlers ,March,11,073
+571,Mariette ALLARD,87.0,2017-03-14, Baugnies ,March,11,073
+572,Maurice VILLANCE,76.0,2017-03-15, Libramont-Chevigny ,March,11,074
+573,Victor Vertongen,82.0,2017-03-15, DEINZE ,March,11,074
+574,Lena Vande Sompele,68.0,2017-03-15, SINT-MICHIELS ,March,11,074
+575,Paul Van Looveren,83.0,2017-03-15, WESTERLO ,March,11,074
+576,Jean TROESSAERT,68.0,2017-03-15, Lessines ,March,11,074
+577,Irma THIRY,72.0,2017-03-15, Loyers ,March,11,074
+578,Louis Strymans,74.0,2017-03-15, LEOPOLDSBURG ,March,11,074
+579,Pol STEYLS,90.0,2017-03-15, GENK ,March,11,074
+580,Frans Smeets,91.0,2017-03-15, VELM ,March,11,074
+581,Gustave Schoofs,91.0,2017-03-15, SINT-TRUIDEN ,March,11,074
+582,Agnès SCHALLON,84.0,2017-03-15, Mouscron ,March,11,074
+583,Josette RUSTIN,88.0,2017-03-15, Saint-Sauveur ,March,11,074
+584,Josiane QUABRON,78.0,2017-03-15, Wegnez ,March,11,074
+585,Irène PROCÈS,94.0,2017-03-15, Temploux ,March,11,074
+586,Marie-Louise PALANGE,94.0,2017-03-15, Genval ,March,11,074
+587,Paula NEYS,85.0,2017-03-15, GENK ,March,11,074
+588,Marie-Claire MOREAUX,63.0,2017-03-15, Bertrix ,March,11,074
+589,Kamiel Merken,93.0,2017-03-15, DIEPENBEEK ,March,11,074
+590,Nelly MARTIN,86.0,2017-03-15, Wasseiges ,March,11,074
+591,Pierre MAQUESTRIAU,88.0,2017-03-15, Namur ,March,11,074
+592,Eloi MAGONETTE,87.0,2017-03-15, Bertrix ,March,11,074
+593,Margriet Lucas,89.0,2017-03-15, HEUSDEN-ZOLDER ,March,11,074
+594,Bèr Lemmens,100.0,2017-03-15, HEUSDEN ,March,11,074
+595,Tim Keersmaekers,20.0,2017-03-15, ANTWERPEN ,March,11,074
+596,Mathieu Janssen,80.0,2017-03-15, OVERPELT ,March,11,074
+597,Soraya Hamarat,117.0,2017-03-15, ANTWERPEN ,March,11,074
+598,l'Abbé Pierre Julien GOOSSENS,82.0,2017-03-15, - ,March,11,074
+599,Jean-Paul GILIS,60.0,2017-03-15, Lesdain ,March,11,074
+600,Marc Geurts,35.0,2017-03-15, VELDWEZELT ,March,11,074
+601,Francis FISSETTE,78.0,2017-03-15, - ,March,11,074
+602,Claude FERRAIN,68.0,2017-03-15, Tournai ,March,11,074
+603,André FAUVILLE,88.0,2017-03-15, Meeffe ,March,11,074
+604,Francis FASTREZ,64.0,2017-03-15, Bon-Secours ,March,11,074
+605,Jos Dirix,73.0,2017-03-15, WELLEN ,March,11,074
+606,Frans Delmote,85.0,2017-03-15, WORTEGEM ,March,11,074
+607,Gilberte DEHOSAY,89.0,2017-03-15, Havelange ,March,11,074
+608,Maria De Winter,91.0,2017-03-15, WILLEBROEK ,March,11,074
+609,Frère Constant de WENCKSTERN,87.0,2017-03-15, Ciney ,March,11,074
+610,Sandro De Rango,74.0,2017-03-15, HOUTHALEN ,March,11,074
+611,Philippe DE GRYSE,79.0,2017-03-15, TIELT ,March,11,074
+612,Georgette Croughs,63.0,2017-03-15, KORTESSEM ,March,11,074
+613,Hugo Crèvecoeur,86.0,2017-03-15, GENK ,March,11,074
+614,Paula Coenen,90.0,2017-03-15, DORMAAL ,March,11,074
+615,Lucille BRIFFAUT,98.0,2017-03-15, Tenneville ,March,11,074
+616,Marcelle BLOMME,88.0,2017-03-15, Templeuve ,March,11,074
+617,Paulette Beckers,81.0,2017-03-15, LANAKEN ,March,11,074
+618,Suzette CHAMPENOIS ,92.0,2017-03-15, Virton ,March,11,074
+619,René WILLEM,103.0,2017-03-16, Villers-sur-Lesse ,March,11,075
+620,Pierre VLEESCHOUWERS,91.0,2017-03-16, MOLENBEERSEL ,March,11,075
+621,Albert VELKENEERS,86.0,2017-03-16, ALKEN ,March,11,075
+622,Maria Van Pelt,93.0,2017-03-16, SCHILDE ,March,11,075
+623,Georgine Van Laere,102.0,2017-03-16, GEEL ,March,11,075
+624,Gérard TOLLET,64.0,2017-03-16, - ,March,11,075
+625,Christine TAMPWO,68.0,2017-03-16, Namur ,March,11,075
+626,Wies Sybers,77.0,2017-03-16, RIEMST ,March,11,075
+627,Ludo Swinnen,78.0,2017-03-16, HERSELT ,March,11,075
+628,Brigitte STANDAERT,82.0,2017-03-16, Anseremme ,March,11,075
+629,Jean SCHROOTEN,74.0,2017-03-16, PEER ,March,11,075
+630,Ben Riepen,73.0,2017-03-16, MAASMECHELEN ,March,11,075
+631,Antoon Quintiens,94.0,2017-03-16, BEERNEM ,March,11,075
+632,Willy Princen,82.0,2017-03-16, KORTIJS ,March,11,075
+633,Stanske Poelmans,95.0,2017-03-16, KOERSEL ,March,11,075
+634,Lambert PIRE,79.0,2017-03-16, Warzée ,March,11,075
+635,Liliane Peeters,81.0,2017-03-16, AS ,March,11,075
+636,Joséphine Peeters,89.0,2017-03-16, Wavre ,March,11,075
+637,Corry Panis,81.0,2017-03-16, LANAKEN ,March,11,075
+638,Henri PALMEN,74.0,2017-03-16, TONGEREN ,March,11,075
+639,Nelly MAGERAT,87.0,2017-03-16, Baillonville ,March,11,075
+640,Robert LEFEBVRE,62.0,2017-03-16, Pecq ,March,11,075
+641,Carla Jacobs,83.0,2017-03-16, ANTWERPEN ,March,11,075
+642,Alixe HUBAUT,92.0,2017-03-16,  ,March,11,075
+643,Maurice Hilven,85.0,2017-03-16, MAASEIK ,March,11,075
+644,Diane Hermans,56.0,2017-03-16, MAASEIK ,March,11,075
+645,Simone HARDY,91.0,2017-03-16, Henri-Chapelle ,March,11,075
+646,Ghislain GOOR,73.0,2017-03-16, Welkenraedt ,March,11,075
+647,Constance Gielen,64.0,2017-03-16, TONGEREN ,March,11,075
+648,Marie DUGARDIN,95.0,2017-03-16, Bruyelle ,March,11,075
+649,Maria De Bruycker,89.0,2017-03-16, OOSTKAMP ,March,11,075
+650,Berthe Daniëls,55.0,2017-03-16, HASSELT ,March,11,075
+651,Marcel COLLEE,88.0,2017-03-16, Pessoux ,March,11,075
+652,Edith BRANLE,61.0,2017-03-16, Vaux-sur-Sûre ,March,11,075
+653,Julia Bosmans,89.0,2017-03-16, HEPPEN ,March,11,075
+654,Rina Bielen,63.0,2017-03-16, ZOLDER ,March,11,075
+655,Francis BACART,82.0,2017-03-16, Kain ,March,11,075
+656,Louis Alen,93.0,2017-03-16, HERK-DE-STAD ,March,11,075
+657,Pater Paul P. Zwaenepoel,93.0,2017-03-17, BRUGGE ,March,11,076
+658,Marc WATRIPONT,73.0,2017-03-17, Vaulx ,March,11,076
+659,Madeleine VANGELDER,88.0,2017-03-17, Lesve ,March,11,076
+660,Christiane Vandendyck,58.0,2017-03-17, TONGEREN ,March,11,076
+661,Rafael Van Liedekerke,84.0,2017-03-17, GENK ,March,11,076
+662,Agnes Van Huffel,84.0,2017-03-17, OOSTERZELE ,March,11,076
+663,Joseph Stans,87.0,2017-03-17, BOORSEM ,March,11,076
+664,Marie-Rose SIMON,73.0,2017-03-17,  ,March,11,076
+665,Maarten SCHRIERS,31.0,2017-03-17, DIEST ,March,11,076
+666,Didier PIETTE,55.0,2017-03-17, Ciney ,March,11,076
+667,Robert Peel,99.0,2017-03-17, KORTRIJK ,March,11,076
+668,Marc Papy,59.0,2017-03-17, WINTERSHOVEN ,March,11,076
+669,Elysée ORBAN,79.0,2017-03-17, Strée-lez-Huy ,March,11,076
+670,Jean MEUWISSEN,73.0,2017-03-17, ROMERSHOVEN ,March,11,076
+671,Ghislaine MARTIN,78.0,2017-03-17, Bastogne ,March,11,076
+672,Jean-Marie KRINS,75.0,2017-03-17, Dison ,March,11,076
+673,Jules Kain,90.0,2017-03-17, Havinnes ,March,11,076
+674,Germaine ISEUX,80.0,2017-03-17, Tournai ,March,11,076
+675,Genoveva HOLVOET,102.0,2017-03-17, Avelgem ,March,11,076
+676,Sylvie HERSSENS,44.0,2017-03-17, Genève ,March,11,076
+677,Paula Hermans,87.0,2017-03-17, DIEPENBEEK ,March,11,076
+678,Paul Groven,94.0,2017-03-17, HASSELT ,March,11,076
+679,Patricia GONAY,57.0,2017-03-17, - ,March,11,076
+680,Marcelle GOFFIN,78.0,2017-03-17, Spy ,March,11,076
+681,Paul GOEDERT,90.0,2017-03-17, Ciney ,March,11,076
+682,Greta GEENARD,76.0,2017-03-17, HELCHTEREN ,March,11,076
+683,Willy DUSART,67.0,2017-03-17, Pecq ,March,11,076
+684,Roger DUCHESNE,88.0,2017-03-17, - ,March,11,076
+685,Christine Delcourt,56.0,2017-03-17, Basècles ,March,11,076
+686,Germaine Daems,91.0,2017-03-17, ZONHOVEN ,March,11,076
+687,Simone COPINE,93.0,2017-03-17, Gosselies ,March,11,076
+688,Maria CEUX,83.0,2017-03-17, KURINGEN ,March,11,076
+689,veuve Georges BRONFORT,117.0,2017-03-17, - ,March,11,076
+690,Julia Bex,81.0,2017-03-17, HASSELT ,March,11,076
+691,Steven BERNARD,17.0,2017-03-17, Fauvillers ,March,11,076
+692,Ulla BERGMAN,87.0,2017-03-17, Verviers ,March,11,076
+693,SANDRON Astrid,86.0,2017-03-17, Couthuin ,March,11,076
+694,Emiel Asselman,81.0,2017-03-17, EDEGEM ,March,11,076
+695,Zuster Lucienne Angèle THIJS,98.0,2017-03-17, HERK-DE-STAD ,March,11,076
+696,Raymond ANCIA,73.0,2017-03-17, Clermont-sous-Huy ,March,11,076
+697,Calixte Vranken,93.0,2017-03-18, LEOPOLDSBURG ,March,11,077
+698,Georgette VRANCKEN,80.0,2017-03-18, ZELEM ,March,11,077
+699,Elisa VLEUGELS,101.0,2017-03-18, GENK ,March,11,077
+700,Annie Ven,71.0,2017-03-18, LEOPOLDSBURG ,March,11,077
+701,Lea Vanthillo,89.0,2017-03-18, KALMTHOUT ,March,11,077
+702,Jozef van der Heyden,69.0,2017-03-18, AALST ,March,11,077
+703,Dominique van der Gucht,60.0,2017-03-18, PUURS ,March,11,077
+704,José Van Belle,89.0,2017-03-18, LEUVEN ,March,11,077
+705,Alphonsine Van Aerschot,86.0,2017-03-18, HASSELT ,March,11,077
+706,Catherine VALLÉE,53.0,2017-03-18, Rumillies ,March,11,077
+707,René THIÉBAUT,80.0,2017-03-18,  ,March,11,077
+708,Julie Sterkendries,85.0,2017-03-18, ALKEN ,March,11,077
+709,Constant SOETAERS,92.0,2017-03-18, HERK-DE-STAD ,March,11,077
+710,Françoise SODOYEZ-GOFFAUX,75.0,2017-03-18, - ,March,11,077
+711,Rita Smits,68.0,2017-03-18, OOSTMALLE ,March,11,077
+712,Warwara SAMOWA,95.0,2017-03-18, Tournai ,March,11,077
+713,Jeannine RENARD,85.0,2017-03-18, Tournai ,March,11,077
+714,Marie RASQUIN,96.0,2017-03-18, La Roche-en-Ardenne ,March,11,077
+715,Jean POTY,73.0,2017-03-18, Dinant ,March,11,077
+716,Leon PEETERS,85.0,2017-03-18, KURINGEN ,March,11,077
+717,Marie-Henriette NOEL,82.0,2017-03-18, Jemelle ,March,11,077
+718,Guido Molenbroeck,62.0,2017-03-18, ZUTENDAAL ,March,11,077
+719,Eva MINGUET,93.0,2017-03-18, Tinlot ,March,11,077
+720,Mariette Libens,94.0,2017-03-18, VELM ,March,11,077
+721,René LEJEUNE,90.0,2017-03-18,  ,March,11,077
+722,Jeannine LEEMANS,87.0,2017-03-18, - ,March,11,077
+723,Theresia KOPERSKI,87.0,2017-03-18, ZUTENDAAL ,March,11,077
+724,Sophie Jacquemin,79.0,2017-03-18, ZICHEN-ZUSSEN-BOLDER ,March,11,077
+725,Marie-Louise Huybrechts,77.0,2017-03-18, MERKSPLAS ,March,11,077
+726,Maurice Hutsebaut,80.0,2017-03-18, MARIAKERKE ,March,11,077
+727,Raymonde HERCOT,89.0,2017-03-18, Limbourg ,March,11,077
+728,Marie Julie GAROT,86.0,2017-03-18, - ,March,11,077
+729,Jos Elsen,82.0,2017-03-18, SINT-TRUIDEN ,March,11,077
+730,Albert Deschepper,90.0,2017-03-18, HELCHTEREN ,March,11,077
+731,Patrick Deproost,62.0,2017-03-18, PITTEM ,March,11,077
+732,Roger DEPREZ,90.0,2017-03-18, - ,March,11,077
+733,Myriam de Viron,58.0,2017-03-18, Chassepierre ,March,11,077
+734,Ronny De Leger,52.0,2017-03-18, HOUTHALEN ,March,11,077
+735,Germain Costenoble,93.0,2017-03-18, BRUGGE ,March,11,077
+736,Daniel CASSART,63.0,2017-03-18, Wépion ,March,11,077
+737,Bianca CARUZZI,91.0,2017-03-18, GENK ,March,11,077
+738,Roger Bouve,89.0,2017-03-18, LEOPOLDSBURG ,March,11,077
+739,Elisa Bollen,86.0,2017-03-18, BOCHOLT ,March,11,077
+740,Michel BISTER,88.0,2017-03-18, Wavre ,March,11,077
+741,Maria BAERT,89.0,2017-03-18, PEER ,March,11,077
+742,Eugène Wynen,72.0,2017-03-19, KORTESSEM ,March,11,078
+743,Marleen WIJNEN,65.0,2017-03-19, ZONHOVEN ,March,11,078
+744,Victor Verschueren,89.0,2017-03-19, MECHELEN ,March,11,078
+745,Roger VERDIN,86.0,2017-03-19, Huy ,March,11,078
+746,Hubert Vander Slagmolen,63.0,2017-03-19, ASSE ,March,11,078
+747,Yvonne Vanbrabant,89.0,2017-03-19, SINT-TRUIDEN ,March,11,078
+748,Hugo Vaes,85.0,2017-03-19, PEER ,March,11,078
+749,Jacques TYTGAT,86.0,2017-03-19,  ,March,11,078
+750,Jean TASSEROUL,87.0,2017-03-19, Namur ,March,11,078
+751,François Mertens,81.0,2017-03-19, GRIMBERGEN ,March,11,078
+752,Chantal MERCY,55.0,2017-03-19, Dison ,March,11,078
+753,Micheline LUCAS,76.0,2017-03-19, Tournai ,March,11,078
+754,Jean Lemmens,88.0,2017-03-19, HEKS ,March,11,078
+755,Liliane LEGAT,74.0,2017-03-19, GENK ,March,11,078
+756,Michel JAUMAIN,117.0,2017-03-19, - ,March,11,078
+757,Denis HENIN,46.0,2017-03-19, Durnal ,March,11,078
+758,Denis HENIN,40.0,2017-03-19, Durnal ,March,11,078
+759,Lucette HANSQUINNE,89.0,2017-03-19, Bouillon ,March,11,078
+760,Laurette Gilliot,82.0,2017-03-19, JESSEREN ,March,11,078
+761,Adrienne GATHOYE,85.0,2017-03-19, - ,March,11,078
+762,Yvon DUFRANNE,82.0,2017-03-19, Ath ,March,11,078
+763,Pierrot DETHIER,86.0,2017-03-19, Limbourg ,March,11,078
+764,Marie-France DEMEULENEIRE,77.0,2017-03-19, Tournai ,March,11,078
+765,Yves De Lausnay,43.0,2017-03-19, DESTELBERGEN ,March,11,078
+766,Jean-Marie DALLEMAGNE,67.0,2017-03-19, Grand-Leez ,March,11,078
+767,Jaak Curvers,83.0,2017-03-19, DILSEN-STOKKEM ,March,11,078
+768,Jeyson CROMBEZ,13.0,2017-03-19, Lessines ,March,11,078
+769,Lèneke Coox,78.0,2017-03-19, BOORSEM ,March,11,078
+770,Jos Broos,93.0,2017-03-19, BIERBEEK ,March,11,078
+771,Marie-Thérèse Bossaert,90.0,2017-03-19, DRONGEN ,March,11,078
+772,Jerry Berger,80.0,2017-03-19, GENK ,March,11,078
+773,Jacqueline BEAUCHAMP,85.0,2017-03-19, - ,March,11,078
+774,Jan ZOONS,77.0,2017-03-20, NEEROETEREN ,March,12,079
+775,Fried Winters,86.0,2017-03-20, HAMONT ,March,12,079
+776,Georgette WILMOTTE,91.0,2017-03-20, Vezin ,March,12,079
+777,Yves VANDENABEELE,63.0,2017-03-20, - ,March,12,079
+778,Jacqueline Van Moer,72.0,2017-03-20, LEOPOLDSBURG ,March,12,079
+779,Martina Thijs,93.0,2017-03-20, NEERPELT ,March,12,079
+780,Jo Symons,69.0,2017-03-20, Heverlee ,March,12,079
+781,Annie SCHIFFLERS,96.0,2017-03-20, Henri-Chapelle ,March,12,079
+782,Mieke Sak,96.0,2017-03-20, HAMONT ,March,12,079
+783,Henri Remels,87.0,2017-03-20, HASSELT ,March,12,079
+784,Giuseppe Pulice,77.0,2017-03-20, EISDEN ,March,12,079
+785,Geneviève PISTRAL,87.0,2017-03-20, Maffle ,March,12,079
+786,Marie-Paule Penson,77.0,2017-03-20, OUDENAARDE ,March,12,079
+787,Martin Pauli,86.0,2017-03-20, MUNSTERBILZEN ,March,12,079
+788,Denise PAUL,87.0,2017-03-20, Bastogne ,March,12,079
+789,Albert Joseph NIJS,101.0,2017-03-20, HASSELT ,March,12,079
+790,Jacques MOYART,86.0,2017-03-20, Kain ,March,12,079
+791,Jacques MEYNAERTS,76.0,2017-03-20, Marche-en-Famenne ,March,12,079
+792,Martha Mantel,95.0,2017-03-20, BERCHEM ,March,12,079
+793,Jacques Liebaut,71.0,2017-03-20, HEIST-AAN-ZEE ,March,12,079
+794,Françoise LEONARD,93.0,2017-03-20, Ciney ,March,12,079
+795,Marcel LEFEBVRE,93.0,2017-03-20, Mainvault ,March,12,079
+796,Jacques JACOBS,117.0,2017-03-20, - ,March,12,079
+797,Patrick Houben,54.0,2017-03-20, HOUTHALEN ,March,12,079
+798,Luc Hermans,77.0,2017-03-20, VUCHT ,March,12,079
+799,Wivine Gossye,71.0,2017-03-20, WANNEGEM-LEDE ,March,12,079
+800,Willy FROYEN,77.0,2017-03-20, ALKEN ,March,12,079
+801,Denise ENSAY,94.0,2017-03-20, Bastogne ,March,12,079
+802,Agnès DRISKET veuve de Monsieur Pierre-Joseph LOMBARD,88.0,2017-03-20, Othée ,March,12,079
+803,Jef Diepvens,80.0,2017-03-20, LEOPOLDSBURG ,March,12,079
+804,Lina DENIS,80.0,2017-03-20, Modave ,March,12,079
+805,Jean-Claude DELOS,79.0,2017-03-20, Profondeville ,March,12,079
+806,Oliva DELAUNOY,87.0,2017-03-20, Mainvault ,March,12,079
+807,Edgard Declercq,93.0,2017-03-20, VARSENARE ,March,12,079
+808,Carmen COLLART,85.0,2017-03-20, Walhain ,March,12,079
+809,Maria Colen,84.0,2017-03-20, BERCHEM ,March,12,079
+810,Fernand Brouwers,80.0,2017-03-20, SINT-LAMBRECHTS-WOLUWE ,March,12,079
+811,Jos Booms,68.0,2017-03-20, EKSEL ,March,12,079
+812,Marie BERTON,84.0,2017-03-20, Taintignies ,March,12,079
+813,René Bastens,92.0,2017-03-20, SINT-TRUIDEN ,March,12,079
+814,Gérard LARRIEU ,79.0,2017-03-20, Lamorteau ,March,12,079
+815,Renée LIEGEOIS ,92.0,2017-03-20, Saint-Mard ,March,12,079
+816,Raymond ZIANE,75.0,2017-03-21, Vielsalm ,March,12,080
+817,Hilda Vranken,92.0,2017-03-21, STOKKEM ,March,12,080
+818,Jaak Vanhamel,100.0,2017-03-21, HECHTEL ,March,12,080
+819,Thérèse Vandewalle,86.0,2017-03-21, BRUGGE ,March,12,080
+820,Rita Van de Steene,81.0,2017-03-21, GENT ,March,12,080
+821,Urbain Van de Poele,88.0,2017-03-21, HEIST-AAN-ZEE ,March,12,080
+822,Colette VALSCHAERTS,82.0,2017-03-21, Namur ,March,12,080
+823,Armand Thys,88.0,2017-03-21, WILRIJK ,March,12,080
+824,Ann-Sofie Smeets,26.0,2017-03-21, HASSELT ,March,12,080
+825,Nathalie SACRé,51.0,2017-03-21, - ,March,12,080
+826,Catharina Roosen,91.0,2017-03-21, HENIS ,March,12,080
+827,Adrienne RENARD,85.0,2017-03-21, Ellignies-Sainte-Anne ,March,12,080
+828,Maria Remels,95.0,2017-03-21, NIEUWERKERKEN ,March,12,080
+829,Marie-Jeanne PUTZ,93.0,2017-03-21, Limbourg ,March,12,080
+830,Jeanne Pipeleers,96.0,2017-03-21, BORGLOON ,March,12,080
+831,Léon PIERRE,91.0,2017-03-21, Graide ,March,12,080
+832,Cathy Pellegrino,61.0,2017-03-21, OPGLABBEEK ,March,12,080
+833,Monique Nijsmans,79.0,2017-03-21, WOMMELGEM ,March,12,080
+834,Christianne Machielsen,70.0,2017-03-21, LOMMEL ,March,12,080
+835,Marie-Thérèse LONEUX,85.0,2017-03-21, Hamoir ,March,12,080
+836,Jacquy LAVAL,76.0,2017-03-21, Oizy ,March,12,080
+837,Jacques LARBUILLAT,85.0,2017-03-21, BRUGGE ,March,12,080
+838,Jan Knoops,85.0,2017-03-21, MUNSTERBILZEN ,March,12,080
+839,Lambert JACQUES,88.0,2017-03-21, - ,March,12,080
+840,Louisa Gorreux,90.0,2017-03-21, NIEUWERKERKEN ,March,12,080
+841,André GOETHALS,72.0,2017-03-21, WAREGEM ,March,12,080
+842,Simone FIEVEZ,93.0,2017-03-21, Mesnil-Saint-Blaise ,March,12,080
+843,Alphonsine DROOGMANS,85.0,2017-03-21, SCHULEN ,March,12,080
+844,Erik DRIJKONINGEN,54.0,2017-03-21, BREE ,March,12,080
+845,Reinhilde Margareta Johanna Doussy,90.0,2017-03-21, GENT ,March,12,080
+846,Jacques DODEMONT,94.0,2017-03-21, Huy ,March,12,080
+847,Franciscus Dhadamus,83.0,2017-03-21, HEVER ,March,12,080
+848,René DELGRANGE,78.0,2017-03-21, Pecq ,March,12,080
+849,Joël DEBETENCOURT,69.0,2017-03-21, Laneffe ,March,12,080
+850,Aimé De Schuyter,88.0,2017-03-21, DEURNE ,March,12,080
+851,Godelieve DE PRAETERE,83.0,2017-03-21, KRUISHOUTEM ,March,12,080
+852,Maurice DE GRAVE,72.0,2017-03-21, - ,March,12,080
+853,JAN COMHAIR,91.0,2017-03-21, GROTE-SPOUWEN ,March,12,080
+854,Alberta Cleymans,104.0,2017-03-21, KAPELLEN ,March,12,080
+855,Aster Buckens,93.0,2017-03-21, ZINGEM ,March,12,080
+856,Frans Blommaerts,95.0,2017-03-21, WILRIJK ,March,12,080
+857,René BERTE,86.0,2017-03-21, Ath ,March,12,080
+858,Adolphe BADOUX,91.0,2017-03-21, Natoye ,March,12,080
+859,PAQUET Andrée,74.0,2017-03-21, Vedrin ,March,12,080
+860,Chantal ALSTEEN,66.0,2017-03-21, Chaumont-Gistoux ,March,12,080
+861,Jef Vansteenbroek,81.0,2017-03-22, TESSENDERLO ,March,12,081
+862,Jozefien Vanbussel,90.0,2017-03-22, KAULILLE ,March,12,081
+863,Louis Van Gerven,89.0,2017-03-22, BOCHOLT ,March,12,081
+864,Jean Steegmans,87.0,2017-03-22, KORTESSEM ,March,12,081
+865,Lieske Stassen,87.0,2017-03-22, VLIJTINGEN ,March,12,081
+866,Pierre SAMSON,83.0,2017-03-22, Mazy ,March,12,081
+867,Marcelle RIBAUCOURT,87.0,2017-03-22, Tourpes ,March,12,081
+868,Mihajlo PROCIKEVIC,77.0,2017-03-22, Jemeppe-sur-Sambre ,March,12,081
+869,Maria Peters,85.0,2017-03-22, SINT-TRUIDEN ,March,12,081
+870,Alida Parthoens,90.0,2017-03-22, MILLEN ,March,12,081
+871,Anna Nuyts,96.0,2017-03-22, HEVERLEE ,March,12,081
+872,Josephina Nooyens,84.0,2017-03-22, BRECHT ,March,12,081
+873,Denise MARECHAL,81.0,2017-03-22, Wancennes ,March,12,081
+874,Jean-Michel LORQUET,89.0,2017-03-22, Namur ,March,12,081
+875,Viviane LERAT,57.0,2017-03-22, Winenne ,March,12,081
+876,Carine Kerkhove,60.0,2017-03-22, OOSTROZEBEKE ,March,12,081
+877,Joske Houben,62.0,2017-03-22, BEVERLO ,March,12,081
+878,Jean HINNISDAELS,83.0,2017-03-22, BINDERVELD ,March,12,081
+879,Maria GODFROID,82.0,2017-03-22, Wasseiges ,March,12,081
+880,Lucienne GERARD,88.0,2017-03-22, Namur ,March,12,081
+881,Willy EVRARD,78.0,2017-03-22, Ciney ,March,12,081
+882,Monique DELVENNE,85.0,2017-03-22, Huy ,March,12,081
+883,Roger Delanoeije,83.0,2017-03-22, BORGERHOUT ,March,12,081
+884,Christian DEHAUFFE,62.0,2017-03-22, Tournai ,March,12,081
+885,Aline De Vos,94.0,2017-03-22, WATERVLIET ,March,12,081
+886,Arlette De Backer,55.0,2017-03-22, LIMAL ,March,12,081
+887,Marie-Madeleine DAMAS,86.0,2017-03-22, Libramont-Chevigny ,March,12,081
+888,Jan Braekeleirs,73.0,2017-03-22, DRONGEN ,March,12,081
+889,Els Bijnens,55.0,2017-03-22, HUMBEEK ,March,12,081
+890,Emiel Bertels,93.0,2017-03-22, WILRIJK ,March,12,081
+891,Angela Awouters,94.0,2017-03-22, KESSEL-LO ,March,12,081
+892,Jean-Marie THOMAS ,80.0,2017-03-22, Gérouville ,March,12,081
+893,Linda Wevers,50.0,2017-03-23, LANAKEN ,March,12,082
+894,Emile VANDEVOORDE,79.0,2017-03-23, Jambes ,March,12,082
+895,Josée Vandermierde,74.0,2017-03-23, HASSELT ,March,12,082
+896,Armand VANDERLINDEN,89.0,2017-03-23, Deux-Acren ,March,12,082
+897,Zulma Van Wijmeersch,75.0,2017-03-23, KURINGEN ,March,12,082
+898,Sus Van Engeland,65.0,2017-03-23, LOMMEL ,March,12,082
+899,Alex Van den Broeck,47.0,2017-03-23, KOERSEL ,March,12,082
+900,Marguerite VAN BASTELAER,91.0,2017-03-23, Tournai ,March,12,082
+901,Jozef THYS,80.0,2017-03-23, KOZEN ,March,12,082
+902,Jeanne Thomassen,85.0,2017-03-23, DIEPENBEEK ,March,12,082
+903,Margriet Taeymans,89.0,2017-03-23, MALLE ,March,12,082
+904,José SWENNEN,83.0,2017-03-23, ZELEM ,March,12,082
+905,Joannes Stassen,89.0,2017-03-23, MILLEN ,March,12,082
+906,Harry Schram,56.0,2017-03-23, BORGERHOUT ,March,12,082
+907,Georges PERAU,80.0,2017-03-23, - ,March,12,082
+908,Marie-Louise NYSSEN,83.0,2017-03-23, Verviers ,March,12,082
+909,Juliette MERCENIER,83.0,2017-03-23, Dorinne ,March,12,082
+910,Jef MAURISSEN,78.0,2017-03-23, BILZEN ,March,12,082
+911,Emile MARTENS,82.0,2017-03-23, RIEMST ,March,12,082
+912,Marie-Thérèse 'Trèskè' MARNEFFE,73.0,2017-03-23, HOESELT ,March,12,082
+913,Anna Maria Mak,82.0,2017-03-23, ANTWERPEN ,March,12,082
+914,Emma Luyck,89.0,2017-03-23, NIEUWERKERKEN ,March,12,082
+915,Andreas Loos,85.0,2017-03-23, KALMTHOUT ,March,12,082
+916,Jacqueline LIVIS,70.0,2017-03-23, Lessines ,March,12,082
+917,Marnik Lippens,71.0,2017-03-23, LOVENDEGEM ,March,12,082
+918,Henriette Haesen,60.0,2017-03-23, HEES ,March,12,082
+919,Giulietta GUASCHINO,87.0,2017-03-23, - ,March,12,082
+920,Huguette GILLET,58.0,2017-03-23, - ,March,12,082
+921,Nestor GILLAIN,96.0,2017-03-23, - ,March,12,082
+922,Marc Devisscher,70.0,2017-03-23, HERZELE ,March,12,082
+923,Betsy DETHIER,84.0,2017-03-23, - ,March,12,082
+924,Martial DENIS,68.0,2017-03-23, Bastogne ,March,12,082
+925,Jeromme Demeer,68.0,2017-03-23, KOERSEL ,March,12,082
+926,Annie Delva,71.0,2017-03-23,  ,March,12,082
+927,Maria DE DOMINICIS,88.0,2017-03-23, GENK ,March,12,082
+928,Hedwige De Cock,85.0,2017-03-23, SCHOTEN ,March,12,082
+929,Gilda COOPMAN,90.0,2017-03-23, Néchin ,March,12,082
+930,Guy CLEMENT,69.0,2017-03-23, Bastogne ,March,12,082
+931,Monique Bruninx,60.0,2017-03-23, HASSELT ,March,12,082
+932,Anne-Marie BRICHARD,88.0,2017-03-23, Nassogne ,March,12,082
+933,Emmanuel BRASSEUR,32.0,2017-03-23, Hamipré ,March,12,082
+934,Colette Bosmans,78.0,2017-03-23, KURINGEN ,March,12,082
+935,Frederik Balis,57.0,2017-03-23, LEOPOLDSBURG ,March,12,082
+936,Nelly BAARD,91.0,2017-03-23, Gouvy ,March,12,082
+937,Annie ANDELHOFS,73.0,2017-03-23, OVERPELT ,March,12,082
+938,Liza WIJNANTS,83.0,2017-03-24, AS ,March,12,083
+939,Ida WAUTHOZ,88.0,2017-03-24, Florenville ,March,12,083
+940,Marcel Wagemans,91.0,2017-03-24, TURNHOUT ,March,12,083
+941,Hubertina Vrancken,61.0,2017-03-24, HASSELT ,March,12,083
+942,Giel VISSERS,81.0,2017-03-24, ROTEM ,March,12,083
+943,Marie-Jeanne Verschelden,75.0,2017-03-24, OUDENAARDE ,March,12,083
+944,Arthur Vanommeslaeghe,92.0,2017-03-24, BRAKEL ,March,12,083
+945,Jef Vannoppen,83.0,2017-03-24, KURINGEN ,March,12,083
+946,Lambert Vanderlinden,85.0,2017-03-24, GENK ,March,12,083
+947,Jos Van Goubergen,82.0,2017-03-24, RIJKEVORSEL ,March,12,083
+948,Henri VALLES,89.0,2017-03-24, TONGEREN ,March,12,083
+949,Paula Terrijn,81.0,2017-03-24, HOUTHALEN ,March,12,083
+950,André Spranghers,85.0,2017-03-24, TERNAT ,March,12,083
+951,Jaan Siemons,79.0,2017-03-24, MEER ,March,12,083
+952,André SEVRIN,83.0,2017-03-24, Amonines ,March,12,083
+953,Els Schoofs,50.0,2017-03-24, ZOLDER ,March,12,083
+954,Marie Schols,91.0,2017-03-24, ELEN ,March,12,083
+955,Julienne SAROT,92.0,2017-03-24, Thumaide ,March,12,083
+956,Louisette SABLON,86.0,2017-03-24, - ,March,12,083
+957,Denise PONCELET,93.0,2017-03-24, Bertrix ,March,12,083
+958,Marcel Pieters,79.0,2017-03-24, OVERMERE ,March,12,083
+959,Nelly NOBEN,65.0,2017-03-24, BILZEN ,March,12,083
+960,Mona NICOLAS,64.0,2017-03-24, Jehonville ,March,12,083
+961,Jozef Cyriel Mulier,95.0,2017-03-24, OUD-HEVERLEE ,March,12,083
+962,André MATHIEU,61.0,2017-03-24, Seilles ,March,12,083
+963,André MARCHAL,85.0,2017-03-24, Dinant ,March,12,083
+964,Daniel MANGUETTE,64.0,2017-03-24, - ,March,12,083
+965,Jean-Marie MALHERBE,68.0,2017-03-24, Flawinne ,March,12,083
+966,Charles KNAUFF,89.0,2017-03-24, Habay-la-Neuve ,March,12,083
+967,Mon Janssens,88.0,2017-03-24, OOSTMALLE ,March,12,083
+968,Anna JANSSENS,85.0,2017-03-24, MUNSTERBILZEN ,March,12,083
+969,Lucien Janssen,56.0,2017-03-24, REKEM ,March,12,083
+970,Joseph Jacobs,81.0,2017-03-24, MAASMECHELEN ,March,12,083
+971,Leonie HOUTMEYERS,91.0,2017-03-24, DIEST ,March,12,083
+972,Marie-Louise HOEX,87.0,2017-03-24, KURINGEN ,March,12,083
+973,Renée HERMAN,86.0,2017-03-24, Rendeux ,March,12,083
+974,Josée Festjens,83.0,2017-03-24, MEMBRUGGEN ,March,12,083
+975,Nelly ECHER,85.0,2017-03-24, Bertrix ,March,12,083
+976,Paulette DUCHENE,80.0,2017-03-24, Gembloux ,March,12,083
+977,Suzane DERZELLE,80.0,2017-03-24, - ,March,12,083
+978,Jean-Marie DENTZ,73.0,2017-03-24, Marche-en-Famenne ,March,12,083
+979,Josephine Deckers,94.0,2017-03-24, PEER ,March,12,083
+980,Fred De keersmaecker,91.0,2017-03-24, TERNAT ,March,12,083
+981,Claude DAMILOT,62.0,2017-03-24, Florenville ,March,12,083
+982,René CONINX,68.0,2017-03-24, GENK ,March,12,083
+983,Theo Claessens,,2017-03-24, LANAKEN ,March,12,083
+984,Marie-José BROUCKE,82.0,2017-03-24, Tournai ,March,12,083
+985,Catherine BOTILDE,93.0,2017-03-24, - ,March,12,083
+986,Els Borgenon,92.0,2017-03-24, KESSEL-LO ,March,12,083
+987,Victor BOHET,81.0,2017-03-24, Emptinne ,March,12,083
+988,Urbain Bex,69.0,2017-03-24, HASSELT ,March,12,083
+989,Theresia Agten,87.0,2017-03-24, NEERPELT ,March,12,083
+990,Andrée JAMINET ,85.0,2017-03-24, Gérouville ,March,12,083
+991,Joseph WARZEE,82.0,2017-03-25,  ,March,12,084
+992,veuve André VIELLEVOYE,67.0,2017-03-25, Dison ,March,12,084
+993,Trees Vervisch,62.0,2017-03-25, IZEGEM ,March,12,084
+994,Georgette VANHOVE,81.0,2017-03-25, Flawinne ,March,12,084
+995,Louis Vanhoudt,80.0,2017-03-25, HEUSDEN-ZOLDER ,March,12,084
+996,Swa Vanderheyden,74.0,2017-03-25, TESSENDERLO ,March,12,084
+997,Maurice VANDENABEELE,87.0,2017-03-25, Lessines ,March,12,084
+998,Maria Van Ginderen,86.0,2017-03-25, ESSEN ,March,12,084
+999,Karl van de Paer,33.0,2017-03-25," Wettswil am Albis, Zwitserland ",March,12,084
+1000,Truda Schoubben,92.0,2017-03-25, HASSELT ,March,12,084
+1001,Denise Prinsmel,88.0,2017-03-25, SINT-TRUIDEN ,March,12,084
+1002,Jean PIRET,87.0,2017-03-25, Wéris ,March,12,084
+1003,Annie NELISSEN,84.0,2017-03-25, MOLENBEERSEL ,March,12,084
+1004,Jan NEIRINCKX,87.0,2017-03-25, GENK ,March,12,084
+1005,Willy Munters,67.0,2017-03-25, KERMT ,March,12,084
+1006,Eva Mullier,83.0,2017-03-25, Pipaix ,March,12,084
+1007,"Maria ""Mitteke"" Luyckx",93.0,2017-03-25, BRECHT ,March,12,084
+1008,Daniel Lettany,91.0,2017-03-25, Hondon de los frailes ,March,12,084
+1009,André LAROSE,80.0,2017-03-25, Verviers ,March,12,084
+1010,Josef Hennon,92.0,2017-03-25, WENDUINE ,March,12,084
+1011,Angèle Grauwels,85.0,2017-03-25, NIEUWERKERKEN ,March,12,084
+1012,Benoît GILLES,51.0,2017-03-25, Gembloux ,March,12,084
+1013,Maria GEBOES,85.0,2017-03-25, - ,March,12,084
+1014,Guy Festjens,78.0,2017-03-25, MEMBRUGGEN ,March,12,084
+1015,Annie Denier,69.0,2017-03-25, MOLENBEERSEL ,March,12,084
+1016,Liliane Dendauw,78.0,2017-03-25, MARKE ,March,12,084
+1017,Denise De Kuysscher,87.0,2017-03-25, MARIAKERKE ,March,12,084
+1018,Robert DE HASPE,88.0,2017-03-25, Willaupuis ,March,12,084
+1019,Willy Courteaux,93.0,2017-03-25, BRUSSEL ,March,12,084
+1020,Jean Coenegrachts,91.0,2017-03-25, MILLEN ,March,12,084
+1021,Jules CHODÉ,83.0,2017-03-25, Racour ,March,12,084
+1022,Jef Bynens,87.0,2017-03-25, DIEPENBEEK ,March,12,084
+1023,Erik Broux,56.0,2017-03-25, Leopoldsburg ,March,12,084
+1024,Claudine BOSQUILLON,78.0,2017-03-25, Warchin ,March,12,084
+1025,Ernest BERTRAND,88.0,2017-03-25, Hemptinne ,March,12,084
+1026,Julia Adriaens,98.0,2017-03-25, WILLEBROEK ,March,12,084
+1027,Lucien WYFFELS,81.0,2017-03-26, Dottignies ,March,12,085
+1028,Josephine Witters,86.0,2017-03-26, LOMMEL ,March,12,085
+1029,Colette Willems,56.0,2017-03-26, KONINKSEM ,March,12,085
+1030,Beatrijs Vanderschueren,75.0,2017-03-26, MECHELEN ,March,12,085
+1031,Gérardine VANDEGAAR,82.0,2017-03-26, Aubel ,March,12,085
+1032,Johan van Schyndel,77.0,2017-03-26, GENK ,March,12,085
+1033,Marie-Louise VAN ROBAEYS,88.0,2017-03-26, BRUGGE ,March,12,085
+1034,Constant Van Hoeck,81.0,2017-03-26, BRECHT ,March,12,085
+1035,José Timmermans,82.0,2017-03-26, HEUSDEN ,March,12,085
+1036,Henri Smeets,87.0,2017-03-26, KAULILLE ,March,12,085
+1037,Bart Ramakers,41.0,2017-03-26, MEESWIJK ,March,12,085
+1038,Idalina Princen,83.0,2017-03-26, KONINKSEM ,March,12,085
+1039,Henri MEERS,86.0,2017-03-26, MILLEN ,March,12,085
+1040,Eugene Luyten,85.0,2017-03-26, MEEUWEN ,March,12,085
+1041,Robert LIARD,84.0,2017-03-26, Péronnes-lez-Antoing ,March,12,085
+1042,Jacqueline LESPIR,87.0,2017-03-26, Heusy ,March,12,085
+1043,Emile LESEINE,82.0,2017-03-26, - ,March,12,085
+1044,Mariette LÄMMER,78.0,2017-03-26, GENK ,March,12,085
+1045,Etienne JOURET,60.0,2017-03-26, Hacquegnies ,March,12,085
+1046,Lilian HURTON,92.0,2017-03-26, Irchonwelz ,March,12,085
+1047,Beatrijs Hulpiau,81.0,2017-03-26, KORTRIJK ,March,12,085
+1048,Laurent HERGOT,55.0,2017-03-26, Halma ,March,12,085
+1049,Eddy Hendrickx,62.0,2017-03-26, OOSTHAM ,March,12,085
+1050,Christiane Goethals,62.0,2017-03-26, GENT ,March,12,085
+1051,Nathalie FAUTSCH,44.0,2017-03-26, Soye ,March,12,085
+1052,Eloy Dominguez,84.0,2017-03-26, GENK ,March,12,085
+1053,Jens Dewit,65.0,2017-03-26, ANTWERPEN ,March,12,085
+1054,Françoise DEBRY,47.0,2017-03-26, Meeffe ,March,12,085
+1055,Albino de Ascensao,67.0,2017-03-26, Mont-Saint-Guibert ,March,12,085
+1056,Pauline DANEL,81.0,2017-03-26, Rumes ,March,12,085
+1057,"Joseph ""Jefke"" Cox",85.0,2017-03-26, GELLIK ,March,12,085
+1058,Juliette CHARLES,94.0,2017-03-26, Franière ,March,12,085
+1059,Hélène CALMEAU,84.0,2017-03-26, Mesnil-Saint-Blaise ,March,12,085
+1060,Daniel BOLLUE,68.0,2017-03-26, Bon-Secours ,March,12,085
+1061,Jean Willems,78.0,2017-03-27, HASSELT ,March,13,086
+1062,Ivo VANHEES,63.0,2017-03-27, PEER ,March,13,086
+1063,Julien Vandormael,92.0,2017-03-27, KERMT ,March,13,086
+1064,Denise Van Wanseele,94.0,2017-03-27, GENT ,March,13,086
+1065,Jean Thiry,85.0,2017-03-27, HALLE-BOOIENHOVEN ,March,13,086
+1066,Mathieu Thirion,90.0,2017-03-27, HAMONT ,March,13,086
+1067,Alphonsina Surinx,87.0,2017-03-27, ZONHOVEN ,March,13,086
+1068,Paul Schraepen,86.0,2017-03-27, ZOLDER ,March,13,086
+1069,Carmela ROMEO,78.0,2017-03-27, Belgrade ,March,13,086
+1070,Adeline ROBIN,94.0,2017-03-27, - ,March,13,086
+1071,Jean-Paul ROB,64.0,2017-03-27, Houffalize ,March,13,086
+1072,Marie-Rose MINNE,77.0,2017-03-27, Auvelais ,March,13,086
+1073,Paul Meulendijks,85.0,2017-03-27, DEURNE ,March,13,086
+1074,Marie-Thérèse LAMBERT,67.0,2017-03-27, Huy ,March,13,086
+1075,Angeline Keppens,89.0,2017-03-27, EKSEL ,March,13,086
+1076,Alice Kenis,69.0,2017-03-27, ZOLDER ,March,13,086
+1077,Gérard GERARDY,91.0,2017-03-27, Bastogne ,March,13,086
+1078,Agnes Froyen,81.0,2017-03-27, ZOERSEL ,March,13,086
+1079,Pierre FIASSE,49.0,2017-03-27, Huy ,March,13,086
+1080,Guy DREIGE,80.0,2017-03-27, - ,March,13,086
+1081,Anne-Marie DELCROIX,80.0,2017-03-27, Tournai ,March,13,086
+1082,Angèle De Keyser,91.0,2017-03-27, BORGERHOUT ,March,13,086
+1083,Alfons De Clerck,82.0,2017-03-27, BRUGGE ,March,13,086
+1084,Jozef Cuyvers,65.0,2017-03-27, NEERPELT ,March,13,086
+1085,Claire CLERMONT,84.0,2017-03-27, - ,March,13,086
+1086,Clémence BOURGEOIS,80.0,2017-03-27, Escanaffles ,March,13,086
+1087,Sabrina BELLE,39.0,2017-03-27,  ,March,13,086
+1088,Léon BEELEN,94.0,2017-03-27, - ,March,13,086
+1089,Eugène BAERT,82.0,2017-03-27, Tournai ,March,13,086
+1090,Jaan Adriaensen,89.0,2017-03-27, BOCHOLT ,March,13,086
+1091,Maurice VANHOVE,83.0,2017-03-28, HASSELT ,March,13,087
+1092,Vital VANDEKERCKHOVE,93.0,2017-03-28, KORTRIJK ,March,13,087
+1093,Frans Van Assche,74.0,2017-03-28, HERK-DE-STAD ,March,13,087
+1094,Gisèle TOLLET,88.0,2017-03-28, Beauvechain ,March,13,087
+1095,Jeanne Tielens,86.0,2017-03-28, SINT-TRUIDEN ,March,13,087
+1096,Marie THOMAS,88.0,2017-03-28, Bouillon ,March,13,087
+1097,Lambert Theunis,91.0,2017-03-28, BEVERLO ,March,13,087
+1098,Annie Strubbe,77.0,2017-03-28, MEULEBEKE ,March,13,087
+1099,Kris Stockbroekx,75.0,2017-03-28, SCHOTEN ,March,13,087
+1100,Louise SIMON,88.0,2017-03-28, Amay ,March,13,087
+1101,Prof. Dr. Oscar Segaert,87.0,2017-03-28, SINT-DENIJS-WESTREM ,March,13,087
+1102,Guillemine SCHYNS,96.0,2017-03-28, Welkenraedt ,March,13,087
+1103,Claude SALENGROS,73.0,2017-03-28, - ,March,13,087
+1104,Alain REMACLE,75.0,2017-03-28, Aubel ,March,13,087
+1105,Henri PIETTE,89.0,2017-03-28, Vedrin ,March,13,087
+1106,Cyrille Philips,88.0,2017-03-28, LEBBEKE ,March,13,087
+1107,Gonneke Nijs,86.0,2017-03-28, ZUTENDAAL ,March,13,087
+1108,Gustaaf 'Staf' Moens,88.0,2017-03-28, ZOLDER ,March,13,087
+1109,Maria Lormans,95.0,2017-03-28, EVERGEM ,March,13,087
+1110,Jaak Kindermans,75.0,2017-03-28, NIEUWERKERKEN ,March,13,087
+1111,Christian JACQUET,78.0,2017-03-28, Namur ,March,13,087
+1112,Alida Hubens,83.0,2017-03-28, MILLEN ,March,13,087
+1113,Constant Grandjean,83.0,2017-03-28, TONGEREN ,March,13,087
+1114,Marcel GALLEZ,89.0,2017-03-28, Wépion ,March,13,087
+1115,Pierre Dupont,70.0,2017-03-28, SINT-TRUIDEN ,March,13,087
+1116,Gisèle DUMONT,61.0,2017-03-28, Deux-Acren ,March,13,087
+1117,Andrée DOUMONT,93.0,2017-03-28, Malonne ,March,13,087
+1118,Guy DODION,80.0,2017-03-28,  ,March,13,087
+1119,Pierre Daniëls,82.0,2017-03-28, BILZEN ,March,13,087
+1120,Marthe DANCOINE,88.0,2017-03-28, Rumes ,March,13,087
+1121,Martin (Mathieu) CROUGHS,79.0,2017-03-28, RIJKHOVEN ,March,13,087
+1122,Lyliane CARPENTIER,87.0,2017-03-28, - ,March,13,087
+1123,Maria Ballert,95.0,2017-03-28, LANAKEN ,March,13,087
+1124,Marie-Thérèse ALEXANDRE,86.0,2017-03-28, Chiny ,March,13,087
+1125,Gustave AERTS,56.0,2017-03-28, SCHAARBEEK ,March,13,087
+1126,Lydi Volckaert,89.0,2017-03-29, MERELBEKE ,March,13,088
+1127,Jules Vandepoel,85.0,2017-03-29, ZELEM ,March,13,088
+1128,Ivan Van Renterghem,80.0,2017-03-29, AARSELE ,March,13,088
+1129,Valentina Van Meel,82.0,2017-03-29, ESSEN ,March,13,088
+1130,Dénise Van Brabant,96.0,2017-03-29, HASSELT ,March,13,088
+1131,Emmanuel Timmermans,92.0,2017-03-29, HEUSDEN-ZOLDER ,March,13,088
+1132,Victor Simons,89.0,2017-03-29, GRIMBERGEN ,March,13,088
+1133,Marguerite SCHEPENS,96.0,2017-03-29, KALKEN ,March,13,088
+1134,Jules ROBERT,85.0,2017-03-29, Grez-Doiceau ,March,13,088
+1135,Eric POSSEMIERS,66.0,2017-03-29, EIGENBILZEN ,March,13,088
+1136,Denise Peers,89.0,2017-03-29, WIELSBEKE ,March,13,088
+1137,Jean-Pierre NIEBES,74.0,2017-03-29, Welkenraedt ,March,13,088
+1138,Henri Nelissen,81.0,2017-03-29, SCHOTEN ,March,13,088
+1139,Leo Mouling,96.0,2017-03-29, ALKEN ,March,13,088
+1140,Zuster Martina Maria BOUTSEN,90.0,2017-03-29, HERK-DE-STAD ,March,13,088
+1141,Gabrielle MAITRE,72.0,2017-03-29, Vedrin ,March,13,088
+1142,Flore MABILE,94.0,2017-03-29, Jambes ,March,13,088
+1143,Dora Lenaerts,91.0,2017-03-29, OPOETEREN ,March,13,088
+1144,Reine LECONTE,88.0,2017-03-29, Templeuve ,March,13,088
+1145,Mireille LAMARCHE,86.0,2017-03-29, Villers-le-Bouillet ,March,13,088
+1146,Suzanne Keijers,87.0,2017-03-29, EDEGEM ,March,13,088
+1147,Pierre Jehoul,87.0,2017-03-29, BEEK ,March,13,088
+1148,Lisa Janssen,97.0,2017-03-29, GENK ,March,13,088
+1149,Jeanne Jacques,88.0,2017-03-29, KOZEN ,March,13,088
+1150,Alex HARTE,63.0,2017-03-29, Jambes ,March,13,088
+1151,Mélanie HARDY,94.0,2017-03-29, Andrimont ,March,13,088
+1152,Jean-Marc GERARD,62.0,2017-03-29, - ,March,13,088
+1153,Albert GALMART,81.0,2017-03-29, Anvaing ,March,13,088
+1154,Maria Elsen,88.0,2017-03-29, HASSELT ,March,13,088
+1155,Willy DUCHESNE,81.0,2017-03-29, Grand-Hallet ,March,13,088
+1156,Gilberte Devos,74.0,2017-03-29, GENT ,March,13,088
+1157,Rainier DESBONNETS,50.0,2017-03-29, Willaupuis ,March,13,088
+1158,Henri DELFOSSE,81.0,2017-03-29, Havinnes ,March,13,088
+1159,Guy DELCOURT,73.0,2017-03-29, Héron ,March,13,088
+1160,André DEHOVRE,94.0,2017-03-29, Lessines ,March,13,088
+1161,Jacqueline DEHAAS,85.0,2017-03-29, Comblain-au-Pont ,March,13,088
+1162,Marcel CARLIER,72.0,2017-03-29, Fays-les-Veneurs ,March,13,088
+1163,Jean-Marie BRASSEUR,58.0,2017-03-29, Winenne ,March,13,088
+1164,Christiane BRACK,74.0,2017-03-29, Martelange ,March,13,088
+1165,Jozef Blockeel,92.0,2017-03-29, ROESELARE ,March,13,088
+1166,Achiel Ballet,82.0,2017-03-29, KERMT ,March,13,088
+1167,Mia AKKERMANS,94.0,2017-03-29, GENK ,March,13,088
+1168,Joseph WOUTERS,75.0,2017-03-30, Ciney ,March,13,089
+1169,Guy Willems,82.0,2017-03-30, TONGEREN ,March,13,089
+1170,Ivonne VRANCKEN,63.0,2017-03-30, BILZEN ,March,13,089
+1171,Raoul VERSCHAEREN,90.0,2017-03-30, Ciney ,March,13,089
+1172,Sam VANSTAPEL,20.0,2017-03-30, Zepperen ,March,13,089
+1173,Nelke Vandeurzen,91.0,2017-03-30, BREE ,March,13,089
+1174,Magdalena VANDERPERREN,89.0,2017-03-30, Tournai ,March,13,089
+1175,Dr. Guy Vancoille,81.0,2017-03-30, OUD-TURNHOUT ,March,13,089
+1176,Marcel Van Wambeke,83.0,2017-03-30, Aalst ,March,13,089
+1177,Roger VAN VOOREN,85.0,2017-03-30, - ,March,13,089
+1178,Raymond Van Hoecke,90.0,2017-03-30, BEVEREN-WAAS ,March,13,089
+1179,Martha Van der Donck,77.0,2017-03-30, SINT-MARTENS-LATEM ,March,13,089
+1180,Marie-Madeleine THISE,93.0,2017-03-30, Wanze ,March,13,089
+1181,Francine Temmerman,91.0,2017-03-30, Roosdaal ,March,13,089
+1182,Raphaël TAHON,91.0,2017-03-30, Ostiches ,March,13,089
+1183,Jean-Jacques STRONARD,82.0,2017-03-30, - ,March,13,089
+1184,Patrick Sterckx,51.0,2017-03-30, KASTERLEE ,March,13,089
+1185,Marie RIGAUX,93.0,2017-03-30, Rochefort ,March,13,089
+1186,Andre Raport,93.0,2017-03-30, WETTEREN ,March,13,089
+1187,Ginette PROESMANS,77.0,2017-03-30, HENIS ,March,13,089
+1188,Augustinus Princen,89.0,2017-03-30, HASSELT ,March,13,089
+1189,Marcelle PERE,88.0,2017-03-30, Ellezelles ,March,13,089
+1190,Jef PAULISSEN,83.0,2017-03-30, GENK ,March,13,089
+1191,Marcel MOUREAU,97.0,2017-03-30, - ,March,13,089
+1192,Elisabeth MEYER,86.0,2017-03-30, Theux ,March,13,089
+1193,Willy Mewis,64.0,2017-03-30, Sint-Truiden ,March,13,089
+1194,Eva MEUNIER,93.0,2017-03-30, Andenne ,March,13,089
+1195,Gabrielle MAROILLE,90.0,2017-03-30, Ostiches ,March,13,089
+1196,Frans Loos,86.0,2017-03-30, OVERPELT ,March,13,089
+1197,Mienie Leyen,82.0,2017-03-30, MAASEIK ,March,13,089
+1198,Jan Kissen,73.0,2017-03-30, HAMONT ,March,13,089
+1199,Georgios KARAMPATAKIS,72.0,2017-03-30, GENK ,March,13,089
+1200,Christel HANUISE,44.0,2017-03-30, Ath ,March,13,089
+1201,Guillaume Haagmans,81.0,2017-03-30, MAASMECHELEN ,March,13,089
+1202,Paul Gondry,76.0,2017-03-30, Leuze-en-Hainaut ,March,13,089
+1203,Lambert Geerkens,80.0,2017-03-30, HUY ,March,13,089
+1204,Gaston François,81.0,2017-03-30, ZONHOVEN ,March,13,089
+1205,Jean-Pierre DURY,59.0,2017-03-30, Gembes ,March,13,089
+1206,Raymonde Dumont,81.0,2017-03-30, Ligne ,March,13,089
+1207,Jean-Louis DUMONT,65.0,2017-03-30, Leuze-en-Hainaut ,March,13,089
+1208,Christiane DUMONT,67.0,2017-03-30, Tournai ,March,13,089
+1209,Maurits Dillen,69.0,2017-03-30, HAM ,March,13,089
+1210,Marie-Louise DEROECK,85.0,2017-03-30,  ,March,13,089
+1211,Gustave De Landtsheer,93.0,2017-03-30, MELLE ,March,13,089
+1212,De Ruyte Danny,60.0,2017-03-30, BOCHOLT ,March,13,089
+1213,Henri Cremers,61.0,2017-03-30, LOMMEL ,March,13,089
+1214,Juliana Courboin,89.0,2017-03-30, KONTICH ,March,13,089
+1215,Juliette COLLART,93.0,2017-03-30, Gesves ,March,13,089
+1216,Domenico COLETTI,65.0,2017-03-30, GENK ,March,13,089
+1217,Amanda Coelmont,91.0,2017-03-30, ALKEN ,March,13,089
+1218,Joanna Ceyssens,93.0,2017-03-30, PAAL ,March,13,089
+1219,Albert Brebels,78.0,2017-03-30, MAASEIK ,March,13,089
+1220,Florentius Bosschart,86.0,2017-03-30, MORTSEL ,March,13,089
+1221,Elza Bleus,92.0,2017-03-30, VELM ,March,13,089
+1222,Henri BAUDAR,87.0,2017-03-30, Tournai ,March,13,089
+1223,Marcel BRESSART ,89.0,2017-03-30, Ethe ,March,13,089
+1224,Louis Wouters,85.0,2017-03-31, KOERSEL ,March,13,090
+1225,Louisa Wijns,95.0,2017-03-31, MORTSEL ,March,13,090
+1226,Prosper WATHIEU,77.0,2017-03-31, Mormont ,March,13,090
+1227,Charel Verbeeck,87.0,2017-03-31, ZONHOVEN ,March,13,090
+1228,Leon Vangelabbeek,87.0,2017-03-31, NEERPELT ,March,13,090
+1229,Luc Tambuyser,62.0,2017-03-31, Deux-Acren ,March,13,090
+1230,Pascal SOUGNEZ,82.0,2017-03-31, Oupeye ,March,13,090
+1231,Albert SALENBIEN,78.0,2017-03-31, Perwez ,March,13,090
+1232,Georges Rogiers,79.0,2017-03-31, HEUSDEN-ZOLDER ,March,13,090
+1233,Joseph PYR,64.0,2017-03-31, Stembert ,March,13,090
+1234,Sophie Picron,82.0,2017-03-31, Wadelincourt ,March,13,090
+1235,Vera Nuyens,,2017-03-31, Lo Pagan (Spanje) ,March,13,090
+1236,Maria Martens,70.0,2017-03-31, STEVOORT ,March,13,090
+1237,Odette MAILLIEN,93.0,2017-03-31, Beauraing ,March,13,090
+1238,Marie-Louise Libens,83.0,2017-03-31, HASSELT ,March,13,090
+1239,René Leyssens,85.0,2017-03-31, HEUSDEN-ZOLDER ,March,13,090
+1240,Hedi Lennartz,68.0,2017-03-31, HASSELT ,March,13,090
+1241,Angèle Leclère,87.0,2017-03-31, SINT-TRUIDEN ,March,13,090
+1242,Lieske Langens,91.0,2017-03-31, HAMONT ,March,13,090
+1243,Bekkers Jan,77.0,2017-03-31, Eisden ,March,13,090
+1244,Nicolas Hoho,68.0,2017-03-31, HEES ,March,13,090
+1245,Georges GILBERT,79.0,2017-03-31, - ,March,13,090
+1246,Gérard DUMONT,83.0,2017-03-31, Vaulx ,March,13,090
+1247,Arlette DOZOT,72.0,2017-03-31, Henri-Chapelle ,March,13,090
+1248,veuve André DEBROUX,91.0,2017-03-31, - ,March,13,090
+1249,Pierre de Vries,82.0,2017-03-31, KESSENICH ,March,13,090
+1250,Marie Florence Cool,97.0,2017-03-31, AALST ,March,13,090
+1251,Yvonne CONSTANT,85.0,2017-03-31, Flawinne ,March,13,090
+1252,Léonard Collart,84.0,2017-03-31, Chapelle-à-Oie ,March,13,090
+1253,Huguette CHOTEAU,80.0,2017-03-31, Beclers ,March,13,090
+1254,Antonio CANNIZZARO,71.0,2017-03-31, GENK ,March,13,090
+1255,Florine CALLEWAERT,90.0,2017-03-31, Hérinnes ,March,13,090
+1256,Joseph Bex,85.0,2017-03-31, ZEPPEREN ,March,13,090
+1257,Victor BACQ,92.0,2017-03-31, Jauche ,March,13,090
+1258,Martine Aerts,55.0,2017-03-31, ZONHOVEN ,March,13,090
